@@ -1,4 +1,4 @@
-Influencer_ID,Influencer Name,Handle,Followers,Posts,Likes,Category,Sentiment,Location,Age,Gender,Platform,Engagement Rate
+id,Influencer Name,Handle,Followers,Posts,Likes,Category,Sentiment,Location,Age,Gender,Platform,Engagement Rate
 1,Jane Doe,@emma.t,340770,986,31587,Food,Positive,Kerala,29,Male,TikTok,9.269301875
 2,Mia Lee,@jane.doe,702603,847,49725,Fashion,Positive,Gujarat,31,Non-binary,Twitter,7.077254153
 3,John Smith,@noah.d,113855,241,41587,Food,Positive,Kerala,25,Male,Instagram,36.52628343
