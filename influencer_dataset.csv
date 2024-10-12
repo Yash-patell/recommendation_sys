@@ -1,4 +1,4 @@
-Influencer_ID,Influencer Name,Handle,Followers,Posts,Likes,Category,Sentiment,Location,Engagement Rate
+Influencer_ID,Influencer_name,Handle,Followers,Posts,Likes,Category,Sentiment,Location,Engagement_Rate
 1,Liam Brown,@sophia.w,662606,445,22863,Gaming,Positive,Kerala,3.450466793
 2,Isabella Moore,@isabella.m,198089,595,46116,Travel,Neutral,Gujarat,23.28044465
 3,Olivia Clark,@isabella.m,581816,679,15803,Music,Positive,Kerala,2.716150811
