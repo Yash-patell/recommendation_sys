@@ -1,4 +1,4 @@
-id,brand_name,product_category,audience_age,audience_gender,audience_location
+id,brand_name,product_category,target_age,target_gender,target_location
 1,Brand72,Nutrition Products,15-24,Female,Kerala
 2,Brand88,Smartphones,All,Male,Gujarat
 3,Brand55,Home Appliances,18-30,Male,Kerala
