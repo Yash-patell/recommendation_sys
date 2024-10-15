@@ -1,7 +1,7 @@
 ,Influencer_name,Category,audience_location,audience_age,audience_gender,Platform,Interaction
-0,Liam Harris,gadgets,kerala,"18, 30",,youtube,0.0
-1,Emma Taylor,gadgets,kerala,"25, 40",male,youtube,1.0
-2,Isabella Anderson,gadgets,kerala,"15, 24",female,youtube,0.0
-3,Gaurav,gadgets,kerala,"22, 40",male,youtube,0.0
-4,Saurav,gadgets,kerala,"18, 30",,instagram,1.0
-5,Isabella Anderson,gadgets,kerala,"18, 30",,tiktok,1.0
+0,Liam Harris,smartphones,delhi,"30, 45",male,youtube,0.0
+1,Ashwin,cosmetics,delhi,"30, 45",male,youtube,1.0
+2,Gagan,"nutrition, products",delhi,"18, 30",male,youtube,0.0
+3,Sophia Rodriguez,"gaming, products",delhi,"18, 25",male,youtube,1.0
+4,Noah Davis,books,delhi,"40, 50",male,youtube,1.0
+5,Sophia Rodriguez,"fashion, accessories",delhi,"25, 40",male,youtube,0.0
