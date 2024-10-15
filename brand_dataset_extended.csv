@@ -1,0 +1,1601 @@
+id,brand_name,target_category,target_age,target_gender,target_location
+1,Brand72,Nutrition Products,15-24,Female,Kerala
+2,Brand88,Smartphones,All,Male,Gujarat
+3,Brand55,Home Appliances,18-30,Male,Kerala
+4,Brand84,Gadgets,15-24,Male,Kerala
+5,Brand43,Home Appliances,40-50,All,Tamil Nadu
+6,Brand24,Fashion Accessories,40-50,Male,Madhya Pradesh
+7,Brand82,Gadgets,30-45,Male,Gujarat
+8,Brand53,Eco-friendly Goods,18-30,Male,Tamil Nadu
+9,Brand16,Nutrition Products,30-45,Male,West Bengal
+10,Brand88,Fashion Accessories,22-40,All,Karnataka
+11,Brand59,Travel Services,18-30,Female,Bihar
+12,Brand32,Smartphones,18-25,Female,Karnataka
+13,Brand78,Food Products,30-45,Male,Kerala
+14,Brand16,Nutrition Products,15-24,Female,Karnataka
+15,Brand76,Travel Services,18-28,All,Punjab
+16,Brand50,Gaming Products,All,Female,Delhi
+17,Brand22,Nutrition Products,18-30,All,Goa
+18,Brand73,Nutrition Products,All,Female,Kerala
+19,Brand8,Cosmetics,25-40,Male,Tamil Nadu
+20,Brand75,Gadgets,18-28,Male,Karnataka
+21,Brand25,Pet Supplies,15-24,Male,Maharashtra
+22,Brand86,Books,25-40,All,Punjab
+23,Brand51,Fashion Accessories,18-25,All,Uttar Pradesh
+24,Brand85,Clothing,22-40,All,Rajasthan
+25,Brand76,Art Supplies,All,Female,Maharashtra
+26,Brand92,Gaming Products,30-45,All,Kerala
+27,Brand69,Cosmetics,18-30,All,Kerala
+28,Brand7,Art Supplies,18-30,All,Delhi
+29,Brand89,Smartphones,18-28,Female,Goa
+30,Brand51,Food Products,15-24,Male,Punjab
+31,Brand43,Gaming Products,22-40,Female,Rajasthan
+32,Brand23,Home Appliances,25-40,Male,Madhya Pradesh
+33,Brand98,Travel Services,30-45,All,Karnataka
+34,Brand58,Fashion Accessories,40-50,Female,Maharashtra
+35,Brand91,Cosmetics,All,Male,Maharashtra
+36,Brand43,Home Appliances,22-40,All,Uttar Pradesh
+37,Brand36,Fitness Equipment,18-25,All,Maharashtra
+38,Brand19,Food Products,All,Female,Delhi
+39,Brand99,Clothing,25-34,All,Goa
+40,Brand85,Travel Services,22-40,Female,Rajasthan
+41,Brand13,Smartphones,25-40,Female,Maharashtra
+42,Brand97,Gadgets,25-40,Female,Kerala
+43,Brand60,Pet Supplies,18-30,Male,Rajasthan
+44,Brand44,Clothing,25-40,All,Uttar Pradesh
+45,Brand10,Books,25-34,All,Kerala
+46,Brand59,Travel Services,18-25,Male,Tamil Nadu
+47,Brand83,Cosmetics,18-25,Male,India
+48,Brand61,Travel Services,25-40,Female,Kerala
+49,Brand24,Art Supplies,All,Female,Haryana
+50,Brand43,Eco-friendly Goods,All,Female,Delhi
+51,Brand54,Fitness Equipment,15-24,All,Karnataka
+52,Brand55,Eco-friendly Goods,30-45,Female,India
+53,Brand85,Gaming Products,30-45,Female,Madhya Pradesh
+54,Brand81,Smartphones,40-50,Female,Karnataka
+55,Brand31,Fitness Equipment,22-40,Male,Madhya Pradesh
+56,Brand26,Gaming Products,25-40,Female,Maharashtra
+57,Brand6,Gadgets,18-28,All,Karnataka
+58,Brand78,Fashion Accessories,30-45,Male,Madhya Pradesh
+59,Brand53,Cosmetics,25-40,Male,Rajasthan
+60,Brand80,Food Products,All,All,Tamil Nadu
+61,Brand39,Clothing,40-50,All,Gujarat
+62,Brand45,Gadgets,15-24,All,Haryana
+63,Brand97,Nutrition Products,15-24,Female,Uttar Pradesh
+64,Brand47,Eco-friendly Goods,22-40,Male,Uttar Pradesh
+65,Brand46,Art Supplies,22-40,All,Uttar Pradesh
+66,Brand100,Eco-friendly Goods,18-30,Female,Madhya Pradesh
+67,Brand68,Pet Supplies,All,Male,West Bengal
+68,Brand69,Smartphones,All,Female,Bihar
+69,Brand32,Fitness Equipment,18-28,Male,West Bengal
+70,Brand67,Cosmetics,25-34,Male,Rajasthan
+71,Brand54,Books,18-30,Female,Delhi
+72,Brand88,Books,18-25,Male,India
+73,Brand98,Fashion Accessories,18-30,Female,Delhi
+74,Brand58,Fashion Accessories,All,Male,Punjab
+75,Brand7,Smartphones,25-34,Male,India
+76,Brand46,Pet Supplies,22-40,Female,India
+77,Brand60,Clothing,25-34,Male,Uttar Pradesh
+78,Brand33,Food Products,All,Male,West Bengal
+79,Brand67,Cosmetics,18-30,Male,India
+80,Brand81,Gaming Products,25-40,All,Tamil Nadu
+81,Brand1,Smartphones,25-34,Female,Madhya Pradesh
+82,Brand59,Home Appliances,18-28,All,West Bengal
+83,Brand27,Home Appliances,18-30,Male,Rajasthan
+84,Brand62,Books,18-25,All,West Bengal
+85,Brand10,Art Supplies,30-45,Male,Gujarat
+86,Brand66,Books,25-34,Female,West Bengal
+87,Brand97,Fitness Equipment,30-45,All,Delhi
+88,Brand30,Smartphones,40-50,All,Karnataka
+89,Brand65,Fashion Accessories,18-30,All,Goa
+90,Brand10,Art Supplies,30-45,All,Karnataka
+91,Brand74,Pet Supplies,18-28,Male,Rajasthan
+92,Brand42,Eco-friendly Goods,22-40,Female,Rajasthan
+93,Brand75,Eco-friendly Goods,25-34,All,Haryana
+94,Brand19,Fashion Accessories,18-28,Female,Delhi
+95,Brand81,Cosmetics,18-25,Male,Haryana
+96,Brand83,Pet Supplies,All,Female,Gujarat
+97,Brand95,Books,22-40,Female,Kerala
+98,Brand53,Art Supplies,25-40,Female,Kerala
+99,Brand28,Books,22-40,Female,Delhi
+100,Brand79,Fitness Equipment,25-40,Female,Gujarat
+101,Brand26,Art Supplies,18-25,Female,Rajasthan
+102,Brand91,Eco-friendly Goods,All,Female,Madhya Pradesh
+103,Brand95,Food Products,25-34,Male,West Bengal
+104,Brand49,Pet Supplies,30-45,Male,Haryana
+105,Brand100,Fitness Equipment,All,Female,Haryana
+106,Brand9,Fitness Equipment,30-45,Female,India
+107,Brand45,Gaming Products,15-24,Male,India
+108,Brand26,Eco-friendly Goods,18-30,Female,Goa
+109,Brand25,Clothing,22-40,All,Goa
+110,Brand51,Food Products,18-28,Female,Kerala
+111,Brand81,Art Supplies,30-45,Male,Bihar
+112,Brand64,Fitness Equipment,18-25,All,Uttar Pradesh
+113,Brand78,Books,18-28,Female,Haryana
+114,Brand22,Gaming Products,18-25,Female,Bihar
+115,Brand20,Pet Supplies,All,Male,Haryana
+116,Brand83,Smartphones,18-30,Male,Goa
+117,Brand5,Travel Services,40-50,All,Maharashtra
+118,Brand12,Smartphones,40-50,Female,India
+119,Brand62,Food Products,All,Male,Maharashtra
+120,Brand21,Gadgets,18-28,Female,West Bengal
+121,Brand32,Gaming Products,25-40,All,Rajasthan
+122,Brand30,Nutrition Products,40-50,Female,Maharashtra
+123,Brand74,Eco-friendly Goods,40-50,All,West Bengal
+124,Brand54,Cosmetics,22-40,All,Delhi
+125,Brand59,Books,22-40,Male,Uttar Pradesh
+126,Brand59,Nutrition Products,25-34,Female,Karnataka
+127,Brand32,Fitness Equipment,22-40,Male,India
+128,Brand4,Pet Supplies,18-25,All,Kerala
+129,Brand59,Cosmetics,22-40,All,Karnataka
+130,Brand46,Cosmetics,22-40,Male,Goa
+131,Brand64,Food Products,30-45,Male,Madhya Pradesh
+132,Brand63,Eco-friendly Goods,All,Male,Maharashtra
+133,Brand66,Fashion Accessories,All,Male,Delhi
+134,Brand64,Cosmetics,All,All,Delhi
+135,Brand67,Pet Supplies,25-34,All,Tamil Nadu
+136,Brand85,Cosmetics,25-40,Male,Delhi
+137,Brand25,Gaming Products,25-34,Male,Uttar Pradesh
+138,Brand58,Travel Services,30-45,Female,India
+139,Brand77,Food Products,18-28,All,Maharashtra
+140,Brand40,Pet Supplies,25-34,All,Delhi
+141,Brand30,Clothing,18-30,All,Uttar Pradesh
+142,Brand95,Home Appliances,18-30,Male,Rajasthan
+143,Brand33,Cosmetics,40-50,Female,Kerala
+144,Brand69,Fitness Equipment,30-45,All,Karnataka
+145,Brand6,Travel Services,18-25,Female,Haryana
+146,Brand37,Fashion Accessories,18-25,All,Haryana
+147,Brand53,Fashion Accessories,22-40,Male,Punjab
+148,Brand13,Travel Services,40-50,All,Punjab
+149,Brand99,Gadgets,22-40,Male,Maharashtra
+150,Brand21,Eco-friendly Goods,18-30,Male,Tamil Nadu
+151,Brand3,Books,18-28,Male,Gujarat
+152,Brand91,Travel Services,18-28,Female,Uttar Pradesh
+153,Brand14,Fashion Accessories,18-30,Male,West Bengal
+154,Brand47,Gaming Products,18-30,Female,Maharashtra
+155,Brand6,Cosmetics,18-28,All,Maharashtra
+156,Brand28,Travel Services,40-50,Male,Rajasthan
+157,Brand11,Fitness Equipment,18-28,Female,Bihar
+158,Brand45,Art Supplies,40-50,Female,Bihar
+159,Brand30,Pet Supplies,All,Female,Haryana
+160,Brand51,Gaming Products,All,Female,West Bengal
+161,Brand30,Travel Services,40-50,Female,Goa
+162,Brand19,Fitness Equipment,18-25,Female,Rajasthan
+163,Brand84,Nutrition Products,18-30,All,Delhi
+164,Brand37,Gadgets,30-45,Male,Madhya Pradesh
+165,Brand41,Fashion Accessories,25-34,Male,Tamil Nadu
+166,Brand15,Smartphones,25-40,Male,Punjab
+167,Brand27,Home Appliances,18-25,Male,Madhya Pradesh
+168,Brand36,Smartphones,25-40,Female,Haryana
+169,Brand64,Fashion Accessories,30-45,Female,India
+170,Brand61,Books,25-40,Male,Rajasthan
+171,Brand17,Pet Supplies,25-40,Male,West Bengal
+172,Brand97,Pet Supplies,40-50,Female,Delhi
+173,Brand11,Gaming Products,18-30,All,Haryana
+174,Brand62,Clothing,25-40,Female,Tamil Nadu
+175,Brand70,Gaming Products,15-24,Female,Punjab
+176,Brand30,Gaming Products,15-24,Male,Rajasthan
+177,Brand93,Travel Services,All,Female,Uttar Pradesh
+178,Brand73,Nutrition Products,18-30,Male,Punjab
+179,Brand57,Eco-friendly Goods,18-28,Female,India
+180,Brand38,Food Products,40-50,Male,Goa
+181,Brand52,Fashion Accessories,25-40,Female,Delhi
+182,Brand100,Home Appliances,15-24,All,Madhya Pradesh
+183,Brand9,Nutrition Products,25-40,Male,Kerala
+184,Brand56,Gadgets,25-34,Female,West Bengal
+185,Brand57,Art Supplies,25-34,All,Gujarat
+186,Brand55,Gaming Products,18-25,Male,Uttar Pradesh
+187,Brand34,Gaming Products,18-25,Female,Karnataka
+188,Brand23,Food Products,All,All,Delhi
+189,Brand85,Home Appliances,22-40,Female,Maharashtra
+190,Brand70,Art Supplies,25-40,All,West Bengal
+191,Brand54,Food Products,40-50,Male,Bihar
+192,Brand13,Books,15-24,Female,Maharashtra
+193,Brand11,Gaming Products,40-50,Male,Haryana
+194,Brand24,Art Supplies,30-45,All,Delhi
+195,Brand20,Smartphones,18-28,Female,Kerala
+196,Brand70,Smartphones,18-28,All,West Bengal
+197,Brand23,Art Supplies,30-45,Male,India
+198,Brand63,Gaming Products,25-34,Male,Haryana
+199,Brand84,Cosmetics,All,Male,Gujarat
+200,Brand73,Fashion Accessories,30-45,Female,Maharashtra
+201,Brand72,Eco-friendly Goods,25-34,Male,Goa
+202,Brand27,Books,15-24,Female,Goa
+203,Brand29,Gaming Products,18-28,Female,Gujarat
+204,Brand44,Cosmetics,15-24,All,Tamil Nadu
+205,Brand7,Art Supplies,18-30,Male,Rajasthan
+206,Brand47,Fitness Equipment,15-24,Male,West Bengal
+207,Brand43,Fitness Equipment,18-28,Female,Punjab
+208,Brand90,Home Appliances,18-30,Male,Rajasthan
+209,Brand11,Smartphones,18-28,Male,Karnataka
+210,Brand68,Cosmetics,40-50,All,Gujarat
+211,Brand21,Gaming Products,25-40,Male,India
+212,Brand19,Fitness Equipment,25-40,Female,Karnataka
+213,Brand59,Travel Services,18-30,All,Delhi
+214,Brand95,Fashion Accessories,15-24,All,Kerala
+215,Brand20,Books,15-24,All,Bihar
+216,Brand95,Art Supplies,18-28,Female,Maharashtra
+217,Brand82,Fashion Accessories,30-45,All,Maharashtra
+218,Brand52,Fitness Equipment,18-28,All,Rajasthan
+219,Brand60,Gadgets,18-25,Female,Bihar
+220,Brand99,Nutrition Products,25-34,Male,Maharashtra
+221,Brand81,Gadgets,25-40,All,Gujarat
+222,Brand79,Gadgets,22-40,Male,Karnataka
+223,Brand32,Gadgets,30-45,All,Bihar
+224,Brand44,Gaming Products,18-28,Male,Bihar
+225,Brand41,Books,25-34,Female,Rajasthan
+226,Brand76,Home Appliances,30-45,Male,Haryana
+227,Brand95,Food Products,25-34,Female,Tamil Nadu
+228,Brand57,Cosmetics,18-25,Male,Delhi
+229,Brand15,Pet Supplies,30-45,Male,Haryana
+230,Brand73,Gaming Products,15-24,Female,Haryana
+231,Brand2,Fitness Equipment,40-50,Male,Goa
+232,Brand12,Books,15-24,Female,Goa
+233,Brand8,Fashion Accessories,15-24,All,Bihar
+234,Brand95,Fitness Equipment,18-25,Female,Haryana
+235,Brand85,Smartphones,All,Male,Karnataka
+236,Brand69,Travel Services,22-40,Male,Delhi
+237,Brand39,Clothing,30-45,Female,Rajasthan
+238,Brand98,Nutrition Products,30-45,All,Tamil Nadu
+239,Brand10,Gaming Products,18-28,All,Maharashtra
+240,Brand51,Pet Supplies,40-50,Female,Madhya Pradesh
+241,Brand36,Art Supplies,18-30,All,Haryana
+242,Brand56,Pet Supplies,18-30,All,West Bengal
+243,Brand36,Food Products,30-45,Male,Punjab
+244,Brand25,Cosmetics,18-30,All,West Bengal
+245,Brand78,Travel Services,All,All,Delhi
+246,Brand58,Clothing,22-40,Male,Uttar Pradesh
+247,Brand42,Clothing,18-28,Male,Punjab
+248,Brand78,Pet Supplies,25-40,Male,West Bengal
+249,Brand60,Food Products,22-40,Male,Bihar
+250,Brand83,Eco-friendly Goods,All,Female,Karnataka
+251,Brand28,Eco-friendly Goods,15-24,Female,Haryana
+252,Brand64,Eco-friendly Goods,22-40,Male,Punjab
+253,Brand22,Travel Services,15-24,All,Rajasthan
+254,Brand23,Cosmetics,25-40,Male,Kerala
+255,Brand53,Fitness Equipment,15-24,Male,Delhi
+256,Brand25,Eco-friendly Goods,18-30,Male,Karnataka
+257,Brand58,Home Appliances,18-28,Male,India
+258,Brand97,Art Supplies,22-40,Male,West Bengal
+259,Brand9,Smartphones,18-30,Male,Rajasthan
+260,Brand45,Fashion Accessories,All,Male,Bihar
+261,Brand74,Fitness Equipment,18-28,All,Rajasthan
+262,Brand21,Clothing,All,All,Bihar
+263,Brand69,Pet Supplies,40-50,Male,Madhya Pradesh
+264,Brand21,Books,25-40,All,Punjab
+265,Brand73,Gadgets,18-28,All,Uttar Pradesh
+266,Brand67,Travel Services,40-50,Male,Gujarat
+267,Brand92,Clothing,18-30,Male,Haryana
+268,Brand83,Clothing,22-40,Female,Uttar Pradesh
+269,Brand57,Cosmetics,18-28,Female,Goa
+270,Brand92,Art Supplies,40-50,All,Gujarat
+271,Brand77,Pet Supplies,30-45,Male,Bihar
+272,Brand75,Cosmetics,18-28,Male,Delhi
+273,Brand69,Travel Services,40-50,Female,Maharashtra
+274,Brand13,Gaming Products,40-50,Female,Punjab
+275,Brand100,Cosmetics,22-40,Female,Punjab
+276,Brand85,Fashion Accessories,22-40,All,Rajasthan
+277,Brand23,Pet Supplies,All,Female,Rajasthan
+278,Brand52,Eco-friendly Goods,22-40,Male,Karnataka
+279,Brand93,Fitness Equipment,All,Female,Haryana
+280,Brand70,Books,18-30,Male,Tamil Nadu
+281,Brand53,Eco-friendly Goods,All,All,Kerala
+282,Brand36,Books,All,Female,Maharashtra
+283,Brand87,Clothing,22-40,All,Punjab
+284,Brand45,Art Supplies,18-28,All,Punjab
+285,Brand92,Smartphones,40-50,Female,Madhya Pradesh
+286,Brand13,Nutrition Products,18-30,Male,Tamil Nadu
+287,Brand74,Home Appliances,18-28,Male,Bihar
+288,Brand60,Art Supplies,All,Male,Kerala
+289,Brand48,Fashion Accessories,25-40,Female,Maharashtra
+290,Brand49,Fitness Equipment,40-50,All,Uttar Pradesh
+291,Brand30,Fitness Equipment,18-25,All,India
+292,Brand44,Cosmetics,25-40,Female,Haryana
+293,Brand60,Home Appliances,30-45,All,Gujarat
+294,Brand72,Food Products,30-45,Female,Karnataka
+295,Brand1,Cosmetics,25-34,All,Gujarat
+296,Brand54,Pet Supplies,40-50,Female,Punjab
+297,Brand29,Gadgets,22-40,Female,Delhi
+298,Brand72,Books,18-25,All,Bihar
+299,Brand66,Food Products,25-34,Male,Madhya Pradesh
+300,Brand78,Fitness Equipment,25-40,Male,Uttar Pradesh
+301,Brand88,Smartphones,18-25,All,Karnataka
+302,Brand60,Books,25-40,All,Bihar
+303,Brand99,Clothing,25-34,All,Bihar
+304,Brand42,Books,18-25,Female,India
+305,Brand26,Books,All,Female,Gujarat
+306,Brand75,Eco-friendly Goods,18-28,Female,Delhi
+307,Brand38,Fitness Equipment,25-34,Female,Kerala
+308,Brand81,Art Supplies,18-28,Male,Punjab
+309,Brand91,Pet Supplies,25-34,Male,Gujarat
+310,Brand73,Smartphones,30-45,All,Haryana
+311,Brand39,Books,40-50,Male,India
+312,Brand91,Books,30-45,Female,Goa
+313,Brand76,Eco-friendly Goods,30-45,Male,Delhi
+314,Brand33,Gadgets,25-40,All,Maharashtra
+315,Brand59,Home Appliances,30-45,All,Maharashtra
+316,Brand45,Home Appliances,18-28,All,Punjab
+317,Brand28,Fashion Accessories,18-28,Female,Haryana
+318,Brand22,Nutrition Products,18-25,Female,Tamil Nadu
+319,Brand68,Fashion Accessories,25-40,Male,Bihar
+320,Brand84,Nutrition Products,18-25,All,Haryana
+321,Brand53,Nutrition Products,30-45,All,Tamil Nadu
+322,Brand86,Gaming Products,15-24,All,Goa
+323,Brand1,Home Appliances,25-40,Female,Goa
+324,Brand87,Fitness Equipment,30-45,All,Punjab
+325,Brand95,Nutrition Products,15-24,Female,Delhi
+326,Brand7,Cosmetics,18-28,Male,Karnataka
+327,Brand91,Clothing,18-30,Male,Karnataka
+328,Brand31,Cosmetics,30-45,All,Tamil Nadu
+329,Brand18,Nutrition Products,18-30,All,West Bengal
+330,Brand16,Books,15-24,Female,Delhi
+331,Brand87,Smartphones,30-45,All,Haryana
+332,Brand6,Smartphones,22-40,Female,Gujarat
+333,Brand71,Fitness Equipment,All,Female,Maharashtra
+334,Brand84,Nutrition Products,18-25,Male,Haryana
+335,Brand21,Travel Services,18-28,All,India
+336,Brand4,Fitness Equipment,15-24,Male,India
+337,Brand54,Gaming Products,25-40,Male,Uttar Pradesh
+338,Brand75,Eco-friendly Goods,18-25,Male,Bihar
+339,Brand37,Gaming Products,18-30,All,Kerala
+340,Brand77,Eco-friendly Goods,18-28,Male,Haryana
+341,Brand52,Smartphones,30-45,Male,Uttar Pradesh
+342,Brand31,Fitness Equipment,40-50,Female,Bihar
+343,Brand83,Eco-friendly Goods,25-40,Male,Haryana
+344,Brand50,Art Supplies,25-40,All,Tamil Nadu
+345,Brand62,Clothing,18-25,All,West Bengal
+346,Brand59,Clothing,18-30,All,Tamil Nadu
+347,Brand32,Fitness Equipment,18-28,All,Delhi
+348,Brand88,Art Supplies,18-30,Female,Madhya Pradesh
+349,Brand37,Fitness Equipment,25-40,Male,West Bengal
+350,Brand81,Fitness Equipment,15-24,All,Kerala
+351,Brand62,Pet Supplies,25-34,Female,Goa
+352,Brand47,Home Appliances,25-40,Female,Kerala
+353,Brand73,Fitness Equipment,15-24,Female,Karnataka
+354,Brand29,Fashion Accessories,30-45,All,Rajasthan
+355,Brand55,Books,18-30,Female,Goa
+356,Brand69,Travel Services,15-24,Female,Rajasthan
+357,Brand12,Home Appliances,18-30,Female,Bihar
+358,Brand71,Pet Supplies,18-28,All,Tamil Nadu
+359,Brand36,Gadgets,25-40,All,Gujarat
+360,Brand83,Gaming Products,18-28,Male,Punjab
+361,Brand92,Gadgets,30-45,Female,Goa
+362,Brand28,Food Products,30-45,Male,Madhya Pradesh
+363,Brand74,Home Appliances,All,Female,Karnataka
+364,Brand89,Pet Supplies,22-40,All,Rajasthan
+365,Brand20,Gadgets,All,Female,Madhya Pradesh
+366,Brand46,Gadgets,40-50,Female,Goa
+367,Brand70,Art Supplies,18-25,Male,Kerala
+368,Brand61,Home Appliances,18-28,All,Madhya Pradesh
+369,Brand45,Travel Services,22-40,All,West Bengal
+370,Brand97,Home Appliances,25-34,Female,West Bengal
+371,Brand65,Nutrition Products,15-24,All,Gujarat
+372,Brand64,Smartphones,18-25,All,Madhya Pradesh
+373,Brand20,Eco-friendly Goods,22-40,Male,Karnataka
+374,Brand44,Gaming Products,18-25,Female,Bihar
+375,Brand52,Gaming Products,All,Female,Haryana
+376,Brand64,Art Supplies,30-45,Female,Maharashtra
+377,Brand48,Fitness Equipment,30-45,Female,India
+378,Brand6,Food Products,15-24,Male,Madhya Pradesh
+379,Brand56,Fashion Accessories,25-40,All,Tamil Nadu
+380,Brand70,Books,18-28,Male,Punjab
+381,Brand72,Home Appliances,25-40,All,Maharashtra
+382,Brand41,Gaming Products,25-40,All,Goa
+383,Brand17,Gaming Products,18-30,Female,Kerala
+384,Brand98,Home Appliances,25-40,Female,Maharashtra
+385,Brand64,Clothing,18-28,All,West Bengal
+386,Brand11,Gadgets,40-50,Female,Maharashtra
+387,Brand85,Gaming Products,18-25,Female,Delhi
+388,Brand79,Nutrition Products,All,All,Karnataka
+389,Brand22,Smartphones,15-24,Male,West Bengal
+390,Brand86,Smartphones,18-25,All,Tamil Nadu
+391,Brand77,Home Appliances,18-30,All,India
+392,Brand96,Cosmetics,25-34,Female,Karnataka
+393,Brand13,Food Products,15-24,All,Bihar
+394,Brand59,Eco-friendly Goods,40-50,Male,Punjab
+395,Brand76,Gadgets,25-40,All,Madhya Pradesh
+396,Brand29,Smartphones,All,Female,Tamil Nadu
+397,Brand76,Food Products,25-34,All,Haryana
+398,Brand54,Books,18-25,Female,India
+399,Brand34,Fashion Accessories,All,Male,Maharashtra
+400,Brand21,Travel Services,18-28,Male,Goa
+401,Brand7,Clothing,30-45,All,Gujarat
+402,Brand44,Eco-friendly Goods,25-40,Male,Maharashtra
+403,Brand19,Fashion Accessories,18-30,Male,Punjab
+404,Brand37,Pet Supplies,15-24,Female,Maharashtra
+405,Brand14,Gaming Products,25-34,All,Delhi
+406,Brand91,Fashion Accessories,15-24,All,Rajasthan
+407,Brand15,Smartphones,All,All,Goa
+408,Brand42,Fashion Accessories,18-25,All,Kerala
+409,Brand19,Gadgets,18-28,All,Delhi
+410,Brand66,Eco-friendly Goods,25-34,Female,Bihar
+411,Brand66,Smartphones,15-24,All,India
+412,Brand17,Nutrition Products,25-34,Male,Uttar Pradesh
+413,Brand79,Fitness Equipment,30-45,Female,Haryana
+414,Brand14,Gadgets,30-45,All,India
+415,Brand27,Gadgets,All,Female,Tamil Nadu
+416,Brand21,Home Appliances,18-25,Female,Tamil Nadu
+417,Brand30,Books,22-40,Female,Karnataka
+418,Brand63,Fitness Equipment,18-30,All,Karnataka
+419,Brand72,Travel Services,18-25,All,Delhi
+420,Brand65,Eco-friendly Goods,30-45,All,Haryana
+421,Brand84,Art Supplies,40-50,All,Delhi
+422,Brand70,Food Products,All,Male,Karnataka
+423,Brand74,Smartphones,18-25,Male,Uttar Pradesh
+424,Brand80,Eco-friendly Goods,30-45,All,Maharashtra
+425,Brand8,Clothing,40-50,Male,Delhi
+426,Brand98,Smartphones,18-30,Male,Punjab
+427,Brand64,Cosmetics,22-40,All,Haryana
+428,Brand62,Travel Services,25-40,All,Madhya Pradesh
+429,Brand90,Fitness Equipment,18-25,Female,India
+430,Brand55,Eco-friendly Goods,22-40,Female,Karnataka
+431,Brand67,Travel Services,25-34,Male,Tamil Nadu
+432,Brand79,Books,All,Male,India
+433,Brand39,Pet Supplies,25-34,All,Delhi
+434,Brand64,Cosmetics,18-25,Female,Goa
+435,Brand37,Nutrition Products,40-50,Male,Tamil Nadu
+436,Brand67,Art Supplies,18-25,Male,Madhya Pradesh
+437,Brand71,Art Supplies,18-30,Female,Maharashtra
+438,Brand64,Fitness Equipment,25-40,Female,Gujarat
+439,Brand58,Gaming Products,25-40,All,Madhya Pradesh
+440,Brand76,Clothing,30-45,All,Delhi
+441,Brand4,Pet Supplies,18-30,All,Maharashtra
+442,Brand77,Fashion Accessories,18-30,Female,Uttar Pradesh
+443,Brand6,Smartphones,40-50,Female,Goa
+444,Brand92,Smartphones,18-25,Female,Kerala
+445,Brand18,Fitness Equipment,25-40,Female,Madhya Pradesh
+446,Brand77,Gadgets,22-40,All,Haryana
+447,Brand6,Smartphones,18-25,All,India
+448,Brand97,Clothing,15-24,Male,Maharashtra
+449,Brand79,Art Supplies,30-45,All,Haryana
+450,Brand18,Nutrition Products,15-24,Female,West Bengal
+451,Brand32,Cosmetics,22-40,All,Maharashtra
+452,Brand71,Smartphones,25-34,Female,India
+453,Brand56,Fitness Equipment,30-45,All,Bihar
+454,Brand2,Fitness Equipment,18-28,All,Goa
+455,Brand83,Fitness Equipment,25-34,Male,Haryana
+456,Brand86,Gadgets,18-25,Female,Uttar Pradesh
+457,Brand72,Smartphones,15-24,Male,India
+458,Brand80,Food Products,22-40,Male,Uttar Pradesh
+459,Brand80,Home Appliances,15-24,Female,Rajasthan
+460,Brand90,Travel Services,18-30,Male,Gujarat
+461,Brand31,Gaming Products,18-28,All,Kerala
+462,Brand93,Fashion Accessories,All,Male,Madhya Pradesh
+463,Brand23,Fashion Accessories,18-30,Male,India
+464,Brand91,Clothing,22-40,All,Rajasthan
+465,Brand50,Books,30-45,Female,Haryana
+466,Brand62,Clothing,18-25,Male,Delhi
+467,Brand72,Fitness Equipment,18-28,All,Maharashtra
+468,Brand11,Books,25-34,Female,Kerala
+469,Brand3,Home Appliances,18-28,Female,Bihar
+470,Brand56,Food Products,40-50,Female,Gujarat
+471,Brand44,Smartphones,25-34,Male,Madhya Pradesh
+472,Brand72,Clothing,40-50,Male,Punjab
+473,Brand96,Art Supplies,18-30,Female,Goa
+474,Brand34,Food Products,30-45,All,Karnataka
+475,Brand8,Smartphones,18-25,Male,Delhi
+476,Brand17,Fitness Equipment,All,Female,Tamil Nadu
+477,Brand32,Fitness Equipment,25-40,All,Bihar
+478,Brand23,Fitness Equipment,18-25,All,Goa
+479,Brand83,Smartphones,25-34,All,Kerala
+480,Brand93,Fitness Equipment,All,All,Rajasthan
+481,Brand34,Art Supplies,All,All,Karnataka
+482,Brand79,Food Products,25-40,Female,Bihar
+483,Brand89,Eco-friendly Goods,18-28,All,Madhya Pradesh
+484,Brand70,Gaming Products,18-30,Female,Rajasthan
+485,Brand86,Nutrition Products,15-24,Male,Tamil Nadu
+486,Brand12,Travel Services,All,Male,Kerala
+487,Brand63,Travel Services,25-34,Female,West Bengal
+488,Brand59,Books,25-40,Female,Uttar Pradesh
+489,Brand7,Fashion Accessories,All,All,Punjab
+490,Brand20,Home Appliances,All,Male,Delhi
+491,Brand54,Food Products,All,Female,India
+492,Brand15,Art Supplies,18-25,All,Goa
+493,Brand46,Gaming Products,30-45,All,Gujarat
+494,Brand6,Home Appliances,All,Female,Tamil Nadu
+495,Brand71,Gaming Products,15-24,Female,Haryana
+496,Brand89,Books,25-40,All,Kerala
+497,Brand34,Home Appliances,40-50,All,Madhya Pradesh
+498,Brand19,Travel Services,15-24,Male,West Bengal
+499,Brand64,Fashion Accessories,15-24,All,Gujarat
+500,Brand24,Cosmetics,18-28,All,Haryana
+501,Brand15,Clothing,40-50,Male,Rajasthan
+502,Brand97,Clothing,22-40,Female,Uttar Pradesh
+503,Brand36,Eco-friendly Goods,25-40,Male,Uttar Pradesh
+504,Brand62,Gadgets,40-50,Male,Delhi
+505,Brand33,Pet Supplies,18-25,Male,Haryana
+506,Brand67,Smartphones,All,Male,West Bengal
+507,Brand75,Books,18-30,All,India
+508,Brand10,Home Appliances,All,Male,Uttar Pradesh
+509,Brand65,Gaming Products,18-25,All,Delhi
+510,Brand52,Travel Services,18-30,All,Rajasthan
+511,Brand71,Smartphones,18-28,All,Gujarat
+512,Brand57,Art Supplies,18-28,Male,West Bengal
+513,Brand62,Eco-friendly Goods,40-50,Male,Goa
+514,Brand34,Clothing,15-24,All,Haryana
+515,Brand89,Eco-friendly Goods,25-40,Female,Haryana
+516,Brand100,Home Appliances,18-30,Male,West Bengal
+517,Brand86,Fashion Accessories,All,All,Madhya Pradesh
+518,Brand37,Clothing,40-50,Female,Delhi
+519,Brand53,Gadgets,25-40,All,India
+520,Brand75,Smartphones,25-34,Female,Bihar
+521,Brand67,Clothing,22-40,All,West Bengal
+522,Brand4,Smartphones,40-50,Male,Haryana
+523,Brand43,Fashion Accessories,25-40,Female,Karnataka
+524,Brand7,Food Products,18-28,Male,Karnataka
+525,Brand45,Cosmetics,25-40,Male,Madhya Pradesh
+526,Brand68,Cosmetics,18-28,Female,Rajasthan
+527,Brand32,Gaming Products,25-34,Female,Kerala
+528,Brand84,Clothing,40-50,Male,Bihar
+529,Brand50,Smartphones,All,Male,Kerala
+530,Brand98,Smartphones,30-45,Male,Rajasthan
+531,Brand75,Smartphones,18-30,All,India
+532,Brand87,Pet Supplies,30-45,Female,Kerala
+533,Brand18,Books,40-50,Male,Delhi
+534,Brand87,Travel Services,18-30,Female,Uttar Pradesh
+535,Brand9,Books,25-40,Female,Bihar
+536,Brand48,Cosmetics,18-30,Male,Punjab
+537,Brand46,Gadgets,18-28,Male,West Bengal
+538,Brand52,Books,18-25,All,Kerala
+539,Brand48,Fitness Equipment,30-45,Male,Gujarat
+540,Brand33,Pet Supplies,18-25,All,India
+541,Brand60,Gadgets,15-24,Female,Haryana
+542,Brand48,Clothing,25-40,Male,West Bengal
+543,Brand83,Art Supplies,18-30,All,Punjab
+544,Brand38,Fitness Equipment,25-40,Female,Haryana
+545,Brand9,Cosmetics,18-30,All,Tamil Nadu
+546,Brand54,Food Products,18-28,Female,Uttar Pradesh
+547,Brand82,Gaming Products,All,Female,Madhya Pradesh
+548,Brand47,Pet Supplies,30-45,All,Punjab
+549,Brand18,Fashion Accessories,All,Female,India
+550,Brand97,Cosmetics,40-50,Female,Tamil Nadu
+551,Brand94,Eco-friendly Goods,All,All,Bihar
+552,Brand18,Pet Supplies,30-45,Male,Maharashtra
+553,Brand15,Clothing,25-34,All,Rajasthan
+554,Brand95,Home Appliances,40-50,All,Delhi
+555,Brand39,Books,40-50,All,Maharashtra
+556,Brand24,Pet Supplies,30-45,Female,Kerala
+557,Brand34,Home Appliances,18-28,All,Bihar
+558,Brand9,Pet Supplies,25-34,Male,Goa
+559,Brand41,Travel Services,15-24,Male,Tamil Nadu
+560,Brand42,Fashion Accessories,25-40,All,India
+561,Brand65,Travel Services,18-30,All,Tamil Nadu
+562,Brand55,Gaming Products,All,Male,Bihar
+563,Brand60,Smartphones,18-30,Female,Delhi
+564,Brand56,Food Products,All,All,Tamil Nadu
+565,Brand9,Food Products,15-24,Female,Madhya Pradesh
+566,Brand54,Cosmetics,15-24,All,Kerala
+567,Brand28,Cosmetics,15-24,All,West Bengal
+568,Brand4,Pet Supplies,18-25,All,Uttar Pradesh
+569,Brand12,Smartphones,All,Female,Haryana
+570,Brand58,Clothing,25-34,Male,India
+571,Brand72,Travel Services,All,All,Haryana
+572,Brand46,Gadgets,All,All,Haryana
+573,Brand29,Pet Supplies,All,All,Uttar Pradesh
+574,Brand88,Home Appliances,30-45,Male,Uttar Pradesh
+575,Brand11,Cosmetics,40-50,All,Goa
+576,Brand94,Cosmetics,25-40,Female,Maharashtra
+577,Brand52,Nutrition Products,25-40,Male,Bihar
+578,Brand1,Nutrition Products,15-24,Male,Madhya Pradesh
+579,Brand31,Nutrition Products,22-40,Female,Kerala
+580,Brand52,Nutrition Products,15-24,All,Punjab
+581,Brand59,Home Appliances,18-30,Male,Delhi
+582,Brand3,Books,18-28,All,Tamil Nadu
+583,Brand73,Home Appliances,40-50,All,Karnataka
+584,Brand17,Smartphones,18-30,All,Punjab
+585,Brand45,Fitness Equipment,40-50,Male,Haryana
+586,Brand53,Gaming Products,25-34,Male,Bihar
+587,Brand57,Fashion Accessories,18-25,Male,Delhi
+588,Brand16,Travel Services,40-50,Male,Maharashtra
+589,Brand95,Gaming Products,15-24,All,Madhya Pradesh
+590,Brand44,Cosmetics,All,Male,Punjab
+591,Brand5,Fitness Equipment,25-40,Male,Delhi
+592,Brand86,Food Products,30-45,Female,West Bengal
+593,Brand11,Cosmetics,18-30,All,Rajasthan
+594,Brand70,Gaming Products,30-45,Female,Maharashtra
+595,Brand2,Clothing,18-28,Female,Tamil Nadu
+596,Brand8,Travel Services,18-30,All,Tamil Nadu
+597,Brand80,Pet Supplies,30-45,Female,Madhya Pradesh
+598,Brand29,Eco-friendly Goods,18-25,All,Goa
+599,Brand7,Gaming Products,25-40,All,Rajasthan
+600,Brand89,Fitness Equipment,22-40,All,Tamil Nadu
+601,Brand122,Art Supplies,22-40,Female,Rajasthan
+602,Brand145,Nutrition Products,18-30,Male,Punjab
+603,Brand122,Nutrition Products,40-50,Female,Kerala
+604,Brand115,Cosmetics,All,All,Haryana
+605,Brand126,Smartphones,15-24,All,Kerala
+606,Brand111,Travel Services,15-24,Female,Delhi
+607,Brand126,Art Supplies,All,Female,Uttar Pradesh
+608,Brand135,Travel Services,18-28,All,Karnataka
+609,Brand133,Nutrition Products,18-30,All,Kerala
+610,Brand117,Home Appliances,All,Female,Uttar Pradesh
+611,Brand137,Nutrition Products,All,Female,Madhya Pradesh
+612,Brand133,Smartphones,18-30,All,Maharashtra
+613,Brand125,Gadgets,15-24,Female,Karnataka
+614,Brand124,Cosmetics,All,Male,Delhi
+615,Brand109,Cosmetics,25-40,Male,Madhya Pradesh
+616,Brand131,Gadgets,All,Male,Haryana
+617,Brand111,Cosmetics,15-24,Female,Gujarat
+618,Brand147,Pet Supplies,25-40,Male,Madhya Pradesh
+619,Brand109,Fashion Accessories,15-24,Female,Madhya Pradesh
+620,Brand142,Eco-friendly Goods,15-24,Female,Punjab
+621,Brand106,Cosmetics,18-28,Female,Maharashtra
+622,Brand131,Nutrition Products,25-40,All,Madhya Pradesh
+623,Brand122,Gadgets,30-45,Female,Kerala
+624,Brand122,Fashion Accessories,30-45,Female,Maharashtra
+625,Brand118,Cosmetics,18-28,Male,Karnataka
+626,Brand140,Smartphones,40-50,All,Karnataka
+627,Brand128,Travel Services,22-40,Male,Kerala
+628,Brand131,Gadgets,15-24,Male,Madhya Pradesh
+629,Brand113,Smartphones,18-30,All,Karnataka
+630,Brand120,Gaming Products,15-24,Female,Madhya Pradesh
+631,Brand104,Cosmetics,18-25,Female,Maharashtra
+632,Brand128,Travel Services,18-25,Female,Karnataka
+633,Brand136,Home Appliances,22-40,All,Karnataka
+634,Brand117,Pet Supplies,40-50,Male,Karnataka
+635,Brand114,Eco-friendly Goods,40-50,Female,West Bengal
+636,Brand138,Home Appliances,15-24,All,Karnataka
+637,Brand136,Fashion Accessories,18-30,Male,Kerala
+638,Brand106,Books,40-50,All,Kerala
+639,Brand145,Smartphones,22-40,Female,Karnataka
+640,Brand140,Cosmetics,18-30,Male,Madhya Pradesh
+641,Brand122,Pet Supplies,25-40,Male,Haryana
+642,Brand140,Home Appliances,15-24,All,Madhya Pradesh
+643,Brand137,Smartphones,15-24,Male,Karnataka
+644,Brand126,Gaming Products,25-40,All,Maharashtra
+645,Brand126,Smartphones,18-25,Female,Madhya Pradesh
+646,Brand107,Fashion Accessories,22-40,Male,Goa
+647,Brand117,Nutrition Products,40-50,Female,Punjab
+648,Brand125,Nutrition Products,All,Female,Kerala
+649,Brand131,Food Products,All,Female,Kerala
+650,Brand131,Cosmetics,22-40,All,Tamil Nadu
+651,Brand115,Nutrition Products,All,Female,Karnataka
+652,Brand143,Nutrition Products,40-50,Male,Kerala
+653,Brand133,Art Supplies,18-28,All,Madhya Pradesh
+654,Brand122,Books,15-24,Male,Kerala
+655,Brand107,Cosmetics,All,Male,Karnataka
+656,Brand144,Home Appliances,30-45,All,Delhi
+657,Brand128,Nutrition Products,All,All,Punjab
+658,Brand126,Gadgets,All,All,Goa
+659,Brand104,Eco-friendly Goods,18-30,Male,Madhya Pradesh
+660,Brand110,Cosmetics,22-40,Female,Delhi
+661,Brand107,Travel Services,All,Male,Kerala
+662,Brand145,Cosmetics,25-40,Male,Maharashtra
+663,Brand150,Eco-friendly Goods,All,Male,Madhya Pradesh
+664,Brand115,Art Supplies,40-50,Female,Delhi
+665,Brand119,Smartphones,18-25,Male,Delhi
+666,Brand128,Gaming Products,40-50,Female,Kerala
+667,Brand128,Art Supplies,15-24,Female,Kerala
+668,Brand123,Books,15-24,Male,Goa
+669,Brand142,Food Products,All,Female,Delhi
+670,Brand129,Gadgets,18-30,Male,Madhya Pradesh
+671,Brand104,Gadgets,18-28,Female,Rajasthan
+672,Brand120,Food Products,18-30,Female,Delhi
+673,Brand123,Smartphones,All,All,Maharashtra
+674,Brand137,Gaming Products,22-40,Male,Rajasthan
+675,Brand118,Art Supplies,40-50,Male,Madhya Pradesh
+676,Brand104,Gadgets,15-24,Female,Madhya Pradesh
+677,Brand130,Food Products,40-50,Female,Tamil Nadu
+678,Brand148,Smartphones,18-25,Female,Punjab
+679,Brand116,Gadgets,25-40,All,Karnataka
+680,Brand117,Travel Services,All,Male,Karnataka
+681,Brand140,Travel Services,18-28,Male,Maharashtra
+682,Brand114,Gadgets,18-30,All,Karnataka
+683,Brand121,Gaming Products,30-45,Female,Maharashtra
+684,Brand137,Pet Supplies,18-28,Female,Karnataka
+685,Brand147,Eco-friendly Goods,30-45,Female,Maharashtra
+686,Brand117,Cosmetics,All,All,Kerala
+687,Brand119,Gadgets,18-30,All,Karnataka
+688,Brand126,Nutrition Products,18-30,Male,Delhi
+689,Brand116,Books,22-40,Female,Tamil Nadu
+690,Brand129,Nutrition Products,40-50,All,Rajasthan
+691,Brand110,Clothing,22-40,Male,Karnataka
+692,Brand126,Travel Services,25-40,All,Rajasthan
+693,Brand106,Nutrition Products,15-24,Male,Delhi
+694,Brand108,Cosmetics,25-40,Female,Tamil Nadu
+695,Brand143,Nutrition Products,15-24,Female,Karnataka
+696,Brand114,Fashion Accessories,25-40,Female,Madhya Pradesh
+697,Brand103,Travel Services,18-30,Female,Punjab
+698,Brand110,Gaming Products,18-30,Male,Karnataka
+699,Brand142,Travel Services,40-50,Female,Maharashtra
+700,Brand116,Eco-friendly Goods,30-45,Female,Karnataka
+701,Brand148,Smartphones,40-50,Female,Gujarat
+702,Brand143,Smartphones,30-45,All,Kerala
+703,Brand140,Gaming Products,18-30,Male,Uttar Pradesh
+704,Brand101,Travel Services,15-24,Male,Goa
+705,Brand112,Home Appliances,18-25,Male,Punjab
+706,Brand138,Home Appliances,22-40,All,Punjab
+707,Brand150,Smartphones,All,Female,Madhya Pradesh
+708,Brand121,Fashion Accessories,40-50,Male,Madhya Pradesh
+709,Brand105,Cosmetics,All,Female,Maharashtra
+710,Brand107,Cosmetics,40-50,Female,Tamil Nadu
+711,Brand148,Smartphones,18-30,All,Rajasthan
+712,Brand136,Travel Services,18-30,Male,Tamil Nadu
+713,Brand137,Art Supplies,40-50,Male,Madhya Pradesh
+714,Brand112,Smartphones,25-40,All,Delhi
+715,Brand146,Pet Supplies,15-24,Female,Goa
+716,Brand113,Travel Services,30-45,All,Kerala
+717,Brand128,Travel Services,18-30,Male,Punjab
+718,Brand144,Nutrition Products,15-24,All,Kerala
+719,Brand130,Nutrition Products,15-24,Male,Kerala
+720,Brand143,Smartphones,18-30,Male,Goa
+721,Brand148,Fashion Accessories,All,Male,Delhi
+722,Brand112,Gadgets,18-30,All,Delhi
+723,Brand132,Gaming Products,22-40,Male,Madhya Pradesh
+724,Brand140,Travel Services,22-40,Female,Maharashtra
+725,Brand129,Smartphones,25-40,Male,Madhya Pradesh
+726,Brand105,Travel Services,All,Male,Karnataka
+727,Brand123,Fashion Accessories,18-28,Female,Delhi
+728,Brand142,Travel Services,18-28,All,Goa
+729,Brand115,Gadgets,40-50,Male,Punjab
+730,Brand115,Gaming Products,30-45,Male,Madhya Pradesh
+731,Brand101,Nutrition Products,18-28,All,Karnataka
+732,Brand106,Gadgets,All,Female,Karnataka
+733,Brand108,Food Products,18-25,Female,Delhi
+734,Brand102,Smartphones,30-45,Male,Kerala
+735,Brand148,Fashion Accessories,All,Female,Delhi
+736,Brand130,Art Supplies,All,Female,Tamil Nadu
+737,Brand128,Smartphones,30-45,Male,Delhi
+738,Brand148,Nutrition Products,All,Female,Kerala
+739,Brand134,Pet Supplies,18-30,Female,Kerala
+740,Brand150,Food Products,30-45,All,Madhya Pradesh
+741,Brand147,Gadgets,18-30,Male,Kerala
+742,Brand128,Nutrition Products,15-24,All,Kerala
+743,Brand133,Eco-friendly Goods,All,Male,Kerala
+744,Brand131,Nutrition Products,18-25,Female,Kerala
+745,Brand130,Gadgets,18-28,All,Karnataka
+746,Brand131,Gadgets,25-40,Female,Goa
+747,Brand147,Gaming Products,All,Male,Karnataka
+748,Brand114,Art Supplies,40-50,All,Karnataka
+749,Brand133,Art Supplies,15-24,All,Kerala
+750,Brand120,Cosmetics,18-25,All,Tamil Nadu
+751,Brand130,Gaming Products,All,Female,Goa
+752,Brand106,Gadgets,18-30,All,Kerala
+753,Brand144,Nutrition Products,15-24,All,Maharashtra
+754,Brand143,Nutrition Products,18-30,Male,Delhi
+755,Brand137,Cosmetics,18-28,Female,Madhya Pradesh
+756,Brand150,Eco-friendly Goods,All,Male,Karnataka
+757,Brand125,Travel Services,25-40,Female,Haryana
+758,Brand113,Books,15-24,Female,Uttar Pradesh
+759,Brand132,Fashion Accessories,18-30,Female,Rajasthan
+760,Brand105,Gaming Products,18-30,Male,Karnataka
+761,Brand132,Gadgets,18-25,Male,Gujarat
+762,Brand105,Smartphones,All,Female,Uttar Pradesh
+763,Brand121,Art Supplies,30-45,Female,Delhi
+764,Brand128,Home Appliances,15-24,Female,Bihar
+765,Brand130,Art Supplies,15-24,All,Karnataka
+766,Brand105,Nutrition Products,30-45,All,Maharashtra
+767,Brand119,Art Supplies,18-30,Female,Rajasthan
+768,Brand128,Smartphones,15-24,Female,Tamil Nadu
+769,Brand118,Gaming Products,All,Male,Maharashtra
+770,Brand139,Art Supplies,18-30,Male,Karnataka
+771,Brand108,Smartphones,18-30,Female,Tamil Nadu
+772,Brand129,Smartphones,40-50,Male,Punjab
+773,Brand134,Eco-friendly Goods,18-30,Male,Goa
+774,Brand138,Travel Services,All,Female,Uttar Pradesh
+775,Brand108,Smartphones,18-28,All,Maharashtra
+776,Brand146,Travel Services,18-30,Female,Madhya Pradesh
+777,Brand103,Art Supplies,15-24,Female,Karnataka
+778,Brand127,Art Supplies,18-28,Male,Kerala
+779,Brand147,Gadgets,15-24,All,Karnataka
+780,Brand129,Gadgets,18-25,Male,Bihar
+781,Brand147,Fashion Accessories,40-50,All,Gujarat
+782,Brand104,Clothing,22-40,Female,Karnataka
+783,Brand149,Travel Services,15-24,All,Delhi
+784,Brand126,Nutrition Products,22-40,All,Maharashtra
+785,Brand128,Pet Supplies,22-40,All,Delhi
+786,Brand125,Smartphones,All,All,Karnataka
+787,Brand128,Cosmetics,22-40,Male,Kerala
+788,Brand118,Cosmetics,15-24,Male,Goa
+789,Brand137,Art Supplies,18-30,All,Delhi
+790,Brand130,Fashion Accessories,18-28,Female,Punjab
+791,Brand135,Pet Supplies,22-40,All,Maharashtra
+792,Brand118,Fashion Accessories,15-24,Female,Goa
+793,Brand129,Smartphones,18-28,All,Gujarat
+794,Brand101,Books,18-30,Male,Karnataka
+795,Brand145,Cosmetics,15-24,Female,Maharashtra
+796,Brand113,Travel Services,22-40,Female,Karnataka
+797,Brand123,Cosmetics,18-30,All,Delhi
+798,Brand125,Fashion Accessories,All,All,Maharashtra
+799,Brand124,Gadgets,18-30,All,Madhya Pradesh
+800,Brand121,Gadgets,15-24,All,Maharashtra
+801,Brand127,Smartphones,15-24,Female,Delhi
+802,Brand107,Cosmetics,18-28,All,Punjab
+803,Brand108,Nutrition Products,18-30,Male,Rajasthan
+804,Brand131,Smartphones,15-24,All,Madhya Pradesh
+805,Brand150,Food Products,15-24,All,Delhi
+806,Brand146,Home Appliances,40-50,All,Rajasthan
+807,Brand122,Travel Services,18-25,Female,Goa
+808,Brand123,Food Products,18-30,Female,Madhya Pradesh
+809,Brand129,Art Supplies,18-30,Female,Delhi
+810,Brand143,Travel Services,15-24,Male,Punjab
+811,Brand116,Nutrition Products,30-45,All,Rajasthan
+812,Brand109,Gadgets,18-25,All,Karnataka
+813,Brand101,Food Products,25-40,All,Gujarat
+814,Brand121,Smartphones,18-28,All,Gujarat
+815,Brand121,Nutrition Products,18-30,Male,Delhi
+816,Brand132,Travel Services,All,Male,Kerala
+817,Brand137,Eco-friendly Goods,18-28,All,Karnataka
+818,Brand146,Fashion Accessories,15-24,Female,Delhi
+819,Brand107,Gadgets,18-25,Female,Rajasthan
+820,Brand115,Gaming Products,22-40,Male,Punjab
+821,Brand143,Travel Services,All,Female,Madhya Pradesh
+822,Brand141,Eco-friendly Goods,18-25,Female,Kerala
+823,Brand114,Nutrition Products,25-40,Female,Kerala
+824,Brand136,Gaming Products,40-50,Male,Gujarat
+825,Brand133,Gadgets,22-40,Male,Madhya Pradesh
+826,Brand141,Home Appliances,15-24,Female,Goa
+827,Brand144,Gadgets,18-30,Female,Delhi
+828,Brand118,Nutrition Products,18-28,Male,Delhi
+829,Brand120,Travel Services,15-24,Male,Kerala
+830,Brand125,Food Products,All,Female,Madhya Pradesh
+831,Brand142,Fashion Accessories,30-45,Male,Delhi
+832,Brand103,Eco-friendly Goods,18-30,Female,Maharashtra
+833,Brand122,Food Products,40-50,Male,Maharashtra
+834,Brand144,Smartphones,18-28,Female,Kerala
+835,Brand122,Gadgets,30-45,Female,Delhi
+836,Brand116,Art Supplies,25-40,Female,Goa
+837,Brand132,Art Supplies,22-40,All,Madhya Pradesh
+838,Brand126,Travel Services,18-30,Male,Goa
+839,Brand126,Art Supplies,22-40,Female,Uttar Pradesh
+840,Brand124,Cosmetics,40-50,All,Punjab
+841,Brand107,Fashion Accessories,18-30,All,Rajasthan
+842,Brand129,Travel Services,All,Male,Madhya Pradesh
+843,Brand120,Smartphones,All,All,Karnataka
+844,Brand110,Smartphones,15-24,All,Rajasthan
+845,Brand139,Art Supplies,All,All,Delhi
+846,Brand115,Nutrition Products,All,Female,Kerala
+847,Brand111,Smartphones,40-50,Female,Madhya Pradesh
+848,Brand122,Smartphones,15-24,All,Goa
+849,Brand113,Gaming Products,40-50,All,Karnataka
+850,Brand129,Art Supplies,15-24,Male,Delhi
+851,Brand113,Cosmetics,30-45,Female,Delhi
+852,Brand136,Fashion Accessories,25-40,Male,Kerala
+853,Brand113,Gadgets,22-40,Male,Uttar Pradesh
+854,Brand123,Food Products,15-24,Male,Madhya Pradesh
+855,Brand115,Cosmetics,All,Male,Madhya Pradesh
+856,Brand119,Art Supplies,18-25,All,Madhya Pradesh
+857,Brand120,Art Supplies,15-24,Female,Punjab
+858,Brand103,Cosmetics,18-30,Female,Karnataka
+859,Brand123,Cosmetics,18-25,All,Tamil Nadu
+860,Brand145,Smartphones,15-24,All,Maharashtra
+861,Brand104,Art Supplies,22-40,Male,Madhya Pradesh
+862,Brand146,Nutrition Products,22-40,All,Goa
+863,Brand143,Pet Supplies,18-28,All,Karnataka
+864,Brand139,Fashion Accessories,18-30,Male,Karnataka
+865,Brand144,Home Appliances,15-24,All,Uttar Pradesh
+866,Brand106,Food Products,22-40,Male,Rajasthan
+867,Brand115,Cosmetics,18-30,Male,Kerala
+868,Brand142,Art Supplies,15-24,Female,Madhya Pradesh
+869,Brand134,Gaming Products,22-40,Female,Karnataka
+870,Brand107,Books,15-24,Male,Madhya Pradesh
+871,Brand117,Gadgets,18-30,Male,Kerala
+872,Brand115,Travel Services,22-40,Female,Gujarat
+873,Brand113,Smartphones,25-40,All,Kerala
+874,Brand125,Art Supplies,15-24,All,Kerala
+875,Brand146,Gaming Products,All,All,Delhi
+876,Brand101,Home Appliances,18-30,Male,Madhya Pradesh
+877,Brand113,Travel Services,40-50,Male,Punjab
+878,Brand119,Gaming Products,18-30,All,Uttar Pradesh
+879,Brand146,Nutrition Products,18-30,Female,Madhya Pradesh
+880,Brand126,Gadgets,15-24,All,Kerala
+881,Brand130,Gadgets,15-24,Female,Rajasthan
+882,Brand127,Fashion Accessories,30-45,Female,Karnataka
+883,Brand130,Gadgets,15-24,All,Uttar Pradesh
+884,Brand144,Smartphones,All,Female,Tamil Nadu
+885,Brand145,Eco-friendly Goods,25-40,Female,Madhya Pradesh
+886,Brand147,Art Supplies,18-28,Male,Delhi
+887,Brand150,Gadgets,18-30,All,Rajasthan
+888,Brand145,Travel Services,18-28,All,Maharashtra
+889,Brand101,Fashion Accessories,18-30,Male,Karnataka
+890,Brand105,Gadgets,30-45,All,Goa
+891,Brand110,Food Products,All,Male,Madhya Pradesh
+892,Brand104,Nutrition Products,18-30,Male,Kerala
+893,Brand112,Smartphones,18-25,Male,Tamil Nadu
+894,Brand123,Gaming Products,40-50,Male,Delhi
+895,Brand143,Eco-friendly Goods,All,Female,Tamil Nadu
+896,Brand102,Travel Services,All,All,Maharashtra
+897,Brand129,Fashion Accessories,25-40,All,Karnataka
+898,Brand121,Travel Services,15-24,Female,Uttar Pradesh
+899,Brand110,Nutrition Products,18-28,All,West Bengal
+900,Brand109,Food Products,25-40,All,Madhya Pradesh
+901,Brand134,Nutrition Products,18-30,Male,Tamil Nadu
+902,Brand111,Pet Supplies,40-50,Male,Uttar Pradesh
+903,Brand124,Fashion Accessories,40-50,All,Kerala
+904,Brand115,Gadgets,25-40,Female,Madhya Pradesh
+905,Brand106,Art Supplies,18-30,Female,Rajasthan
+906,Brand116,Cosmetics,15-24,Female,West Bengal
+907,Brand141,Gadgets,15-24,Female,Gujarat
+908,Brand101,Cosmetics,All,All,Goa
+909,Brand111,Eco-friendly Goods,18-28,All,Kerala
+910,Brand149,Travel Services,30-45,Female,Punjab
+911,Brand141,Nutrition Products,30-45,Male,Karnataka
+912,Brand121,Smartphones,22-40,Male,Madhya Pradesh
+913,Brand138,Travel Services,All,Female,Madhya Pradesh
+914,Brand116,Nutrition Products,15-24,Male,Punjab
+915,Brand106,Travel Services,All,Female,Uttar Pradesh
+916,Brand144,Travel Services,18-30,All,Karnataka
+917,Brand148,Pet Supplies,15-24,Female,Rajasthan
+918,Brand116,Fashion Accessories,All,All,Gujarat
+919,Brand131,Smartphones,18-30,Male,Kerala
+920,Brand114,Gaming Products,15-24,All,Kerala
+921,Brand145,Nutrition Products,18-25,Male,Gujarat
+922,Brand102,Travel Services,40-50,Female,Kerala
+923,Brand105,Home Appliances,18-25,Male,Punjab
+924,Brand136,Smartphones,18-30,All,Delhi
+925,Brand119,Smartphones,All,Male,Karnataka
+926,Brand137,Cosmetics,40-50,Male,Karnataka
+927,Brand150,Nutrition Products,18-28,Male,Punjab
+928,Brand111,Nutrition Products,18-30,Female,Bihar
+929,Brand132,Cosmetics,18-30,Male,Maharashtra
+930,Brand109,Cosmetics,18-30,Female,Karnataka
+931,Brand114,Gadgets,40-50,Male,Tamil Nadu
+932,Brand134,Travel Services,18-30,All,Kerala
+933,Brand130,Gaming Products,18-30,Male,Madhya Pradesh
+934,Brand112,Nutrition Products,18-25,Female,Punjab
+935,Brand132,Pet Supplies,22-40,Female,Kerala
+936,Brand101,Pet Supplies,18-30,Male,Kerala
+937,Brand113,Eco-friendly Goods,18-25,Male,Rajasthan
+938,Brand120,Pet Supplies,15-24,Female,Delhi
+939,Brand118,Cosmetics,40-50,All,Gujarat
+940,Brand109,Travel Services,All,Female,Karnataka
+941,Brand134,Nutrition Products,All,All,Gujarat
+942,Brand112,Food Products,18-28,Male,Madhya Pradesh
+943,Brand149,Fashion Accessories,40-50,All,West Bengal
+944,Brand138,Smartphones,18-25,Male,Karnataka
+945,Brand134,Home Appliances,18-30,All,Madhya Pradesh
+946,Brand137,Gaming Products,18-30,Female,Tamil Nadu
+947,Brand124,Gaming Products,22-40,All,Kerala
+948,Brand121,Travel Services,18-30,Male,Kerala
+949,Brand117,Smartphones,18-25,Female,Karnataka
+950,Brand135,Smartphones,All,Male,Uttar Pradesh
+951,Brand142,Nutrition Products,25-40,Female,Maharashtra
+952,Brand108,Cosmetics,40-50,All,Karnataka
+953,Brand122,Food Products,30-45,All,Kerala
+954,Brand130,Gaming Products,18-30,Male,Punjab
+955,Brand103,Travel Services,15-24,Male,Kerala
+956,Brand120,Cosmetics,15-24,Female,Madhya Pradesh
+957,Brand150,Art Supplies,40-50,Male,Uttar Pradesh
+958,Brand102,Cosmetics,All,Male,Rajasthan
+959,Brand124,Gadgets,15-24,Female,Delhi
+960,Brand133,Nutrition Products,18-30,Female,Uttar Pradesh
+961,Brand117,Travel Services,22-40,Male,Maharashtra
+962,Brand150,Nutrition Products,All,Male,Delhi
+963,Brand138,Cosmetics,All,Male,Delhi
+964,Brand141,Art Supplies,30-45,All,Goa
+965,Brand129,Travel Services,18-30,Female,Karnataka
+966,Brand108,Home Appliances,18-30,Male,Maharashtra
+967,Brand112,Travel Services,18-30,All,Delhi
+968,Brand139,Gadgets,22-40,Female,Maharashtra
+969,Brand114,Gadgets,All,All,Uttar Pradesh
+970,Brand104,Travel Services,22-40,Female,Karnataka
+971,Brand116,Smartphones,15-24,Male,Delhi
+972,Brand150,Art Supplies,15-24,All,Delhi
+973,Brand143,Gaming Products,18-25,Female,Punjab
+974,Brand125,Smartphones,18-25,All,Karnataka
+975,Brand146,Travel Services,22-40,Male,Tamil Nadu
+976,Brand127,Nutrition Products,30-45,Female,Uttar Pradesh
+977,Brand116,Fashion Accessories,15-24,All,Kerala
+978,Brand148,Nutrition Products,15-24,Male,Madhya Pradesh
+979,Brand130,Travel Services,15-24,Male,Tamil Nadu
+980,Brand150,Smartphones,18-25,All,Delhi
+981,Brand145,Home Appliances,18-30,Female,Delhi
+982,Brand124,Gadgets,40-50,All,Goa
+983,Brand113,Cosmetics,All,Female,Maharashtra
+984,Brand146,Nutrition Products,18-30,All,Kerala
+985,Brand104,Nutrition Products,18-30,All,Haryana
+986,Brand120,Eco-friendly Goods,18-25,All,Kerala
+987,Brand115,Gadgets,30-45,Male,Kerala
+988,Brand113,Clothing,22-40,All,Madhya Pradesh
+989,Brand146,Nutrition Products,40-50,Female,Karnataka
+990,Brand104,Travel Services,30-45,Male,Tamil Nadu
+991,Brand122,Cosmetics,18-30,All,Madhya Pradesh
+992,Brand121,Clothing,22-40,Male,Karnataka
+993,Brand136,Smartphones,18-30,All,Uttar Pradesh
+994,Brand118,Nutrition Products,30-45,Female,Kerala
+995,Brand119,Smartphones,All,Male,Kerala
+996,Brand102,Smartphones,40-50,Female,Madhya Pradesh
+997,Brand115,Travel Services,18-25,All,Gujarat
+998,Brand148,Art Supplies,22-40,All,Bihar
+999,Brand129,Gadgets,22-40,Female,Madhya Pradesh
+1000,Brand127,Art Supplies,All,Male,Uttar Pradesh
+1001,Brand133,Home Appliances,40-50,All,Maharashtra
+1002,Brand116,Gadgets,18-30,Male,Delhi
+1003,Brand146,Gadgets,40-50,All,Kerala
+1004,Brand141,Home Appliances,15-24,Female,Karnataka
+1005,Brand148,Smartphones,18-30,Female,West Bengal
+1006,Brand139,Travel Services,18-25,Female,Kerala
+1007,Brand128,Smartphones,18-30,Female,Kerala
+1008,Brand147,Food Products,All,Male,Kerala
+1009,Brand119,Nutrition Products,All,Male,Kerala
+1010,Brand111,Gadgets,18-28,Female,Maharashtra
+1011,Brand142,Travel Services,18-25,Male,Maharashtra
+1012,Brand143,Travel Services,All,All,Uttar Pradesh
+1013,Brand109,Fashion Accessories,15-24,Female,Tamil Nadu
+1014,Brand130,Travel Services,18-30,Female,Delhi
+1015,Brand135,Gadgets,40-50,All,Gujarat
+1016,Brand118,Food Products,25-40,All,Madhya Pradesh
+1017,Brand135,Smartphones,18-28,Male,West Bengal
+1018,Brand128,Cosmetics,22-40,Female,Tamil Nadu
+1019,Brand118,Travel Services,18-30,All,Karnataka
+1020,Brand109,Travel Services,18-30,Male,Tamil Nadu
+1021,Brand104,Cosmetics,18-30,All,Kerala
+1022,Brand111,Smartphones,15-24,Female,Madhya Pradesh
+1023,Brand127,Travel Services,30-45,Male,Karnataka
+1024,Brand126,Smartphones,25-40,Male,Bihar
+1025,Brand121,Smartphones,18-28,Male,Madhya Pradesh
+1026,Brand150,Gadgets,18-30,Female,Tamil Nadu
+1027,Brand116,Travel Services,22-40,Male,Delhi
+1028,Brand116,Travel Services,18-25,Female,West Bengal
+1029,Brand106,Travel Services,25-40,Male,Madhya Pradesh
+1030,Brand141,Smartphones,All,Male,Karnataka
+1031,Brand138,Fashion Accessories,18-25,Female,Punjab
+1032,Brand115,Smartphones,15-24,Male,Uttar Pradesh
+1033,Brand146,Travel Services,18-25,All,Karnataka
+1034,Brand102,Travel Services,18-28,Male,Kerala
+1035,Brand115,Pet Supplies,18-25,Male,Delhi
+1036,Brand138,Smartphones,All,All,Tamil Nadu
+1037,Brand131,Books,All,All,Tamil Nadu
+1038,Brand142,Travel Services,18-30,Female,Karnataka
+1039,Brand141,Smartphones,18-28,Male,Gujarat
+1040,Brand145,Gadgets,All,All,Punjab
+1041,Brand143,Gadgets,18-30,All,Kerala
+1042,Brand142,Nutrition Products,18-28,Female,Karnataka
+1043,Brand135,Home Appliances,30-45,All,Punjab
+1044,Brand129,Travel Services,25-40,Male,Bihar
+1045,Brand144,Food Products,15-24,Female,Delhi
+1046,Brand123,Smartphones,30-45,Female,Punjab
+1047,Brand107,Pet Supplies,25-40,Male,West Bengal
+1048,Brand117,Gadgets,30-45,Male,Kerala
+1049,Brand149,Travel Services,18-25,All,Gujarat
+1050,Brand120,Travel Services,22-40,Male,Kerala
+1051,Brand106,Nutrition Products,18-30,Female,Kerala
+1052,Brand112,Travel Services,18-28,All,Tamil Nadu
+1053,Brand131,Eco-friendly Goods,All,All,Kerala
+1054,Brand103,Cosmetics,18-25,Male,Karnataka
+1055,Brand123,Gadgets,18-28,All,Kerala
+1056,Brand146,Art Supplies,All,Female,Madhya Pradesh
+1057,Brand104,Home Appliances,40-50,Male,Rajasthan
+1058,Brand125,Smartphones,15-24,Female,Kerala
+1059,Brand147,Travel Services,15-24,All,Haryana
+1060,Brand142,Travel Services,18-25,Female,Tamil Nadu
+1061,Brand109,Eco-friendly Goods,22-40,All,Uttar Pradesh
+1062,Brand120,Travel Services,18-30,Female,Maharashtra
+1063,Brand112,Eco-friendly Goods,18-28,Female,Delhi
+1064,Brand118,Food Products,30-45,Female,Madhya Pradesh
+1065,Brand140,Nutrition Products,18-30,Male,Goa
+1066,Brand144,Gadgets,25-40,Female,Rajasthan
+1067,Brand139,Travel Services,All,Female,Madhya Pradesh
+1068,Brand133,Art Supplies,30-45,Female,Goa
+1069,Brand144,Pet Supplies,18-28,All,Kerala
+1070,Brand131,Travel Services,40-50,Male,Uttar Pradesh
+1071,Brand122,Eco-friendly Goods,18-30,Male,Uttar Pradesh
+1072,Brand134,Home Appliances,40-50,Male,Punjab
+1073,Brand138,Gaming Products,22-40,Male,Kerala
+1074,Brand109,Gaming Products,All,Female,Delhi
+1075,Brand116,Smartphones,40-50,All,Karnataka
+1076,Brand139,Gaming Products,22-40,All,Kerala
+1077,Brand105,Eco-friendly Goods,18-30,Female,Haryana
+1078,Brand139,Gaming Products,15-24,Female,Rajasthan
+1079,Brand124,Home Appliances,25-40,Female,Rajasthan
+1080,Brand111,Travel Services,18-30,Male,Madhya Pradesh
+1081,Brand110,Gaming Products,All,Male,Gujarat
+1082,Brand147,Fashion Accessories,30-45,Female,Madhya Pradesh
+1083,Brand133,Nutrition Products,18-28,All,Delhi
+1084,Brand119,Smartphones,18-28,Male,Delhi
+1085,Brand115,Gadgets,18-28,Female,Karnataka
+1086,Brand125,Travel Services,25-40,All,Madhya Pradesh
+1087,Brand147,Travel Services,15-24,Male,Punjab
+1088,Brand134,Art Supplies,All,All,Maharashtra
+1089,Brand149,Fashion Accessories,All,Female,Maharashtra
+1090,Brand114,Gaming Products,All,All,Tamil Nadu
+1091,Brand139,Cosmetics,15-24,Male,Uttar Pradesh
+1092,Brand115,Art Supplies,18-25,Male,Bihar
+1093,Brand147,Gaming Products,25-40,All,Punjab
+1094,Brand140,Gadgets,All,Male,Karnataka
+1095,Brand109,Nutrition Products,18-25,Female,Madhya Pradesh
+1096,Brand137,Travel Services,All,Male,Haryana
+1097,Brand139,Art Supplies,30-45,All,Kerala
+1098,Brand139,Smartphones,25-40,All,Delhi
+1099,Brand128,Gadgets,15-24,Male,Karnataka
+1100,Brand115,Smartphones,18-30,All,Maharashtra
+1101,Brand130,Home Appliances,15-24,Female,Rajasthan
+1102,Brand123,Food Products,18-28,All,Madhya Pradesh
+1103,Brand137,Smartphones,40-50,Female,Delhi
+1104,Brand140,Pet Supplies,18-30,All,Punjab
+1105,Brand148,Art Supplies,18-28,Female,Gujarat
+1106,Brand143,Art Supplies,All,Female,Punjab
+1107,Brand129,Nutrition Products,18-28,All,Tamil Nadu
+1108,Brand128,Art Supplies,18-28,All,Punjab
+1109,Brand128,Fashion Accessories,15-24,All,Delhi
+1110,Brand132,Smartphones,18-30,All,Madhya Pradesh
+1111,Brand103,Fashion Accessories,25-40,Male,Delhi
+1112,Brand148,Cosmetics,15-24,Male,Rajasthan
+1113,Brand111,Cosmetics,15-24,Male,Tamil Nadu
+1114,Brand130,Cosmetics,40-50,Female,Maharashtra
+1115,Brand124,Food Products,All,Female,Punjab
+1116,Brand103,Travel Services,18-25,Male,Rajasthan
+1117,Brand136,Travel Services,22-40,Male,Tamil Nadu
+1118,Brand130,Home Appliances,All,All,Goa
+1119,Brand129,Smartphones,18-28,Female,Goa
+1120,Brand128,Smartphones,15-24,Male,Tamil Nadu
+1121,Brand148,Smartphones,18-28,All,Karnataka
+1122,Brand116,Food Products,18-30,Male,Rajasthan
+1123,Brand148,Food Products,18-30,All,Madhya Pradesh
+1124,Brand138,Nutrition Products,18-25,Male,Tamil Nadu
+1125,Brand106,Gaming Products,15-24,Female,Delhi
+1126,Brand104,Gaming Products,18-30,All,Tamil Nadu
+1127,Brand138,Food Products,15-24,Female,Tamil Nadu
+1128,Brand138,Pet Supplies,18-30,All,Karnataka
+1129,Brand144,Travel Services,18-30,Female,Uttar Pradesh
+1130,Brand150,Travel Services,18-30,Female,Maharashtra
+1131,Brand128,Cosmetics,18-30,Female,Karnataka
+1132,Brand144,Nutrition Products,22-40,Male,Kerala
+1133,Brand144,Travel Services,15-24,All,Karnataka
+1134,Brand132,Cosmetics,18-30,All,Tamil Nadu
+1135,Brand123,Fashion Accessories,15-24,Female,Uttar Pradesh
+1136,Brand131,Clothing,18-30,All,Gujarat
+1137,Brand107,Food Products,15-24,Male,Uttar Pradesh
+1138,Brand127,Cosmetics,40-50,All,Kerala
+1139,Brand150,Gadgets,18-30,All,Kerala
+1140,Brand132,Nutrition Products,All,Female,Uttar Pradesh
+1141,Brand145,Home Appliances,15-24,All,Delhi
+1142,Brand104,Cosmetics,All,All,Bihar
+1143,Brand133,Travel Services,25-40,All,Kerala
+1144,Brand127,Smartphones,18-28,All,Madhya Pradesh
+1145,Brand114,Travel Services,18-30,All,Karnataka
+1146,Brand146,Nutrition Products,All,Female,Madhya Pradesh
+1147,Brand144,Cosmetics,40-50,All,West Bengal
+1148,Brand124,Travel Services,18-30,All,Kerala
+1149,Brand142,Pet Supplies,22-40,Female,Kerala
+1150,Brand106,Food Products,30-45,Male,Kerala
+1151,Brand101,Food Products,15-24,Female,Punjab
+1152,Brand123,Gaming Products,30-45,Female,Uttar Pradesh
+1153,Brand146,Pet Supplies,15-24,Female,Delhi
+1154,Brand127,Nutrition Products,18-28,Female,Rajasthan
+1155,Brand107,Travel Services,25-40,Male,Karnataka
+1156,Brand127,Cosmetics,18-30,Female,Delhi
+1157,Brand116,Travel Services,18-25,All,Delhi
+1158,Brand107,Nutrition Products,22-40,All,Kerala
+1159,Brand126,Travel Services,25-40,All,Tamil Nadu
+1160,Brand134,Gadgets,18-28,All,Delhi
+1161,Brand103,Travel Services,18-30,All,Madhya Pradesh
+1162,Brand121,Clothing,18-30,Male,Madhya Pradesh
+1163,Brand126,Gaming Products,15-24,Female,Delhi
+1164,Brand136,Home Appliances,18-28,Female,Tamil Nadu
+1165,Brand110,Clothing,All,Female,Uttar Pradesh
+1166,Brand135,Smartphones,40-50,Female,Delhi
+1167,Brand142,Gaming Products,40-50,Female,Karnataka
+1168,Brand146,Nutrition Products,22-40,Female,Madhya Pradesh
+1169,Brand146,Art Supplies,22-40,Male,Kerala
+1170,Brand115,Smartphones,15-24,Male,West Bengal
+1171,Brand107,Books,40-50,Male,Tamil Nadu
+1172,Brand120,Food Products,18-30,Male,Kerala
+1173,Brand123,Art Supplies,18-28,Male,Uttar Pradesh
+1174,Brand130,Travel Services,25-40,All,Maharashtra
+1175,Brand125,Cosmetics,15-24,Male,Tamil Nadu
+1176,Brand112,Nutrition Products,18-25,Female,Uttar Pradesh
+1177,Brand147,Cosmetics,All,Male,Kerala
+1178,Brand116,Smartphones,30-45,All,Karnataka
+1179,Brand133,Travel Services,18-28,Female,Delhi
+1180,Brand108,Cosmetics,15-24,Male,Tamil Nadu
+1181,Brand124,Nutrition Products,All,Male,Delhi
+1182,Brand108,Cosmetics,All,Female,Kerala
+1183,Brand130,Gaming Products,15-24,All,Madhya Pradesh
+1184,Brand112,Smartphones,All,All,Delhi
+1185,Brand150,Nutrition Products,18-30,Male,Delhi
+1186,Brand125,Travel Services,18-30,All,Tamil Nadu
+1187,Brand127,Smartphones,15-24,Male,Goa
+1188,Brand118,Travel Services,22-40,Male,West Bengal
+1189,Brand143,Art Supplies,18-30,All,Maharashtra
+1190,Brand125,Travel Services,15-24,Male,Kerala
+1191,Brand134,Clothing,25-40,Female,Karnataka
+1192,Brand117,Cosmetics,18-30,All,Delhi
+1193,Brand143,Cosmetics,All,Female,Madhya Pradesh
+1194,Brand121,Gaming Products,22-40,All,Kerala
+1195,Brand131,Home Appliances,All,Male,Kerala
+1196,Brand129,Home Appliances,All,All,Tamil Nadu
+1197,Brand138,Art Supplies,15-24,Male,Uttar Pradesh
+1198,Brand139,Gadgets,18-25,Female,Madhya Pradesh
+1199,Brand115,Gadgets,30-45,All,Kerala
+1200,Brand107,Nutrition Products,All,All,Tamil Nadu
+1201,Brand138,Nutrition Products,18-30,Female,Tamil Nadu
+1202,Brand150,Cosmetics,All,Female,Goa
+1203,Brand126,Home Appliances,All,Female,Karnataka
+1204,Brand141,Art Supplies,18-30,All,Rajasthan
+1205,Brand104,Smartphones,15-24,Female,Madhya Pradesh
+1206,Brand126,Smartphones,18-30,Female,Kerala
+1207,Brand147,Cosmetics,18-30,Male,Kerala
+1208,Brand148,Gadgets,18-30,Female,Madhya Pradesh
+1209,Brand110,Art Supplies,40-50,Male,Karnataka
+1210,Brand141,Pet Supplies,15-24,Male,Uttar Pradesh
+1211,Brand128,Smartphones,15-24,Female,Punjab
+1212,Brand145,Smartphones,22-40,Male,Tamil Nadu
+1213,Brand109,Cosmetics,15-24,Male,Kerala
+1214,Brand137,Travel Services,25-40,All,Delhi
+1215,Brand133,Cosmetics,15-24,Female,Karnataka
+1216,Brand124,Nutrition Products,25-40,Female,Gujarat
+1217,Brand112,Gadgets,18-28,Male,Maharashtra
+1218,Brand130,Travel Services,18-25,Female,Tamil Nadu
+1219,Brand138,Travel Services,18-30,All,Karnataka
+1220,Brand111,Cosmetics,30-45,All,West Bengal
+1221,Brand125,Smartphones,15-24,All,Kerala
+1222,Brand133,Eco-friendly Goods,25-40,Male,Kerala
+1223,Brand121,Gaming Products,15-24,All,Delhi
+1224,Brand122,Gaming Products,18-30,All,Haryana
+1225,Brand108,Home Appliances,15-24,Male,Tamil Nadu
+1226,Brand138,Cosmetics,15-24,Male,Delhi
+1227,Brand144,Fashion Accessories,18-28,Female,Gujarat
+1228,Brand147,Art Supplies,All,Male,Uttar Pradesh
+1229,Brand107,Cosmetics,40-50,Male,Rajasthan
+1230,Brand137,Food Products,18-30,All,Rajasthan
+1231,Brand134,Pet Supplies,18-30,Male,Kerala
+1232,Brand124,Smartphones,18-28,Female,Karnataka
+1233,Brand146,Travel Services,15-24,All,Delhi
+1234,Brand101,Cosmetics,18-28,Female,Kerala
+1235,Brand115,Smartphones,All,Female,Kerala
+1236,Brand108,Fashion Accessories,15-24,Female,Goa
+1237,Brand102,Travel Services,18-28,Female,Goa
+1238,Brand133,Pet Supplies,15-24,Female,Madhya Pradesh
+1239,Brand138,Eco-friendly Goods,30-45,Female,Karnataka
+1240,Brand144,Home Appliances,All,All,Madhya Pradesh
+1241,Brand117,Gaming Products,All,Female,Madhya Pradesh
+1242,Brand124,Fashion Accessories,22-40,All,Delhi
+1243,Brand143,Travel Services,18-30,Male,Kerala
+1244,Brand111,Nutrition Products,40-50,Male,Kerala
+1245,Brand122,Gadgets,18-28,Male,Kerala
+1246,Brand135,Nutrition Products,30-45,Male,Haryana
+1247,Brand122,Home Appliances,18-25,All,West Bengal
+1248,Brand136,Nutrition Products,18-30,All,Delhi
+1249,Brand109,Gaming Products,22-40,Male,Tamil Nadu
+1250,Brand138,Nutrition Products,All,Female,Kerala
+1251,Brand149,Travel Services,25-40,Male,Uttar Pradesh
+1252,Brand149,Smartphones,15-24,All,Tamil Nadu
+1253,Brand134,Gaming Products,18-30,All,Madhya Pradesh
+1254,Brand112,Gaming Products,18-28,Male,Tamil Nadu
+1255,Brand103,Cosmetics,30-45,All,Tamil Nadu
+1256,Brand115,Art Supplies,15-24,Male,Rajasthan
+1257,Brand118,Fashion Accessories,All,All,Karnataka
+1258,Brand150,Eco-friendly Goods,18-30,All,Kerala
+1259,Brand109,Travel Services,18-28,Male,Delhi
+1260,Brand107,Food Products,30-45,Female,Goa
+1261,Brand128,Travel Services,All,Female,Madhya Pradesh
+1262,Brand117,Nutrition Products,18-28,All,Goa
+1263,Brand133,Art Supplies,18-30,Female,Kerala
+1264,Brand128,Gadgets,18-30,Male,Tamil Nadu
+1265,Brand133,Clothing,All,Male,Kerala
+1266,Brand120,Travel Services,30-45,Female,Goa
+1267,Brand105,Cosmetics,18-30,Female,Madhya Pradesh
+1268,Brand147,Cosmetics,40-50,All,Madhya Pradesh
+1269,Brand129,Nutrition Products,All,Female,Uttar Pradesh
+1270,Brand145,Home Appliances,18-25,All,Kerala
+1271,Brand150,Food Products,18-30,Male,Kerala
+1272,Brand124,Gadgets,All,Male,Haryana
+1273,Brand105,Food Products,18-28,Male,Madhya Pradesh
+1274,Brand143,Fashion Accessories,18-25,All,Madhya Pradesh
+1275,Brand110,Nutrition Products,All,Female,Kerala
+1276,Brand142,Smartphones,18-25,Female,Kerala
+1277,Brand124,Home Appliances,15-24,Male,Delhi
+1278,Brand125,Food Products,18-30,All,Maharashtra
+1279,Brand136,Food Products,30-45,Female,Madhya Pradesh
+1280,Brand129,Travel Services,18-30,All,Karnataka
+1281,Brand138,Gaming Products,15-24,Female,Delhi
+1282,Brand122,Cosmetics,18-25,Female,Tamil Nadu
+1283,Brand140,Travel Services,18-25,Female,Goa
+1284,Brand136,Travel Services,18-25,All,Bihar
+1285,Brand130,Home Appliances,15-24,Male,Rajasthan
+1286,Brand144,Nutrition Products,18-25,Female,Goa
+1287,Brand115,Art Supplies,18-30,Male,Kerala
+1288,Brand146,Home Appliances,22-40,Female,Kerala
+1289,Brand130,Clothing,18-30,Female,Karnataka
+1290,Brand140,Fashion Accessories,40-50,Male,Kerala
+1291,Brand128,Gadgets,All,Male,Karnataka
+1292,Brand106,Cosmetics,18-30,All,Maharashtra
+1293,Brand119,Cosmetics,All,All,Karnataka
+1294,Brand120,Travel Services,15-24,Male,West Bengal
+1295,Brand115,Art Supplies,18-30,Male,Kerala
+1296,Brand145,Nutrition Products,18-30,All,Uttar Pradesh
+1297,Brand111,Clothing,18-30,All,Karnataka
+1298,Brand109,Fashion Accessories,All,Male,Uttar Pradesh
+1299,Brand104,Books,18-30,Male,Goa
+1300,Brand150,Art Supplies,All,Female,Uttar Pradesh
+1301,Brand135,Pet Supplies,25-40,Female,Punjab
+1302,Brand117,Nutrition Products,22-40,Female,Madhya Pradesh
+1303,Brand116,Nutrition Products,15-24,Female,Madhya Pradesh
+1304,Brand110,Smartphones,18-28,Male,Delhi
+1305,Brand140,Gadgets,15-24,All,Karnataka
+1306,Brand106,Travel Services,30-45,All,Uttar Pradesh
+1307,Brand118,Fashion Accessories,18-25,All,West Bengal
+1308,Brand110,Smartphones,40-50,All,Tamil Nadu
+1309,Brand105,Nutrition Products,All,Female,Delhi
+1310,Brand149,Smartphones,15-24,Male,Karnataka
+1311,Brand115,Eco-friendly Goods,40-50,All,Karnataka
+1312,Brand116,Eco-friendly Goods,40-50,Male,Rajasthan
+1313,Brand107,Smartphones,22-40,All,Madhya Pradesh
+1314,Brand134,Art Supplies,18-30,All,Madhya Pradesh
+1315,Brand148,Pet Supplies,18-30,Male,Kerala
+1316,Brand107,Pet Supplies,18-28,All,Madhya Pradesh
+1317,Brand119,Fashion Accessories,All,Male,Uttar Pradesh
+1318,Brand148,Nutrition Products,30-45,All,Punjab
+1319,Brand126,Food Products,15-24,All,Delhi
+1320,Brand127,Art Supplies,All,Female,Delhi
+1321,Brand135,Travel Services,18-30,All,Karnataka
+1322,Brand131,Travel Services,22-40,Female,Maharashtra
+1323,Brand140,Fashion Accessories,15-24,All,Delhi
+1324,Brand108,Gadgets,18-28,Female,Rajasthan
+1325,Brand130,Gadgets,18-30,Male,Goa
+1326,Brand137,Gaming Products,15-24,Female,Madhya Pradesh
+1327,Brand119,Art Supplies,All,All,Kerala
+1328,Brand119,Gadgets,15-24,All,Karnataka
+1329,Brand118,Travel Services,40-50,All,Kerala
+1330,Brand112,Gadgets,18-30,All,Uttar Pradesh
+1331,Brand111,Home Appliances,All,Male,Delhi
+1332,Brand127,Pet Supplies,30-45,Female,Haryana
+1333,Brand117,Home Appliances,18-30,Male,Karnataka
+1334,Brand137,Travel Services,30-45,Female,Maharashtra
+1335,Brand149,Eco-friendly Goods,18-25,Female,Madhya Pradesh
+1336,Brand111,Pet Supplies,40-50,Female,Rajasthan
+1337,Brand108,Travel Services,18-30,Male,Kerala
+1338,Brand104,Gadgets,22-40,Male,Madhya Pradesh
+1339,Brand132,Nutrition Products,22-40,Male,Gujarat
+1340,Brand107,Travel Services,30-45,Female,Goa
+1341,Brand149,Smartphones,All,Female,Karnataka
+1342,Brand126,Travel Services,15-24,Female,Goa
+1343,Brand140,Gadgets,25-40,Male,Goa
+1344,Brand126,Cosmetics,18-28,All,Madhya Pradesh
+1345,Brand138,Gaming Products,15-24,Female,Tamil Nadu
+1346,Brand127,Art Supplies,18-28,Female,Punjab
+1347,Brand138,Pet Supplies,22-40,All,Gujarat
+1348,Brand108,Cosmetics,22-40,Female,Maharashtra
+1349,Brand121,Nutrition Products,25-40,Female,Haryana
+1350,Brand104,Travel Services,15-24,Female,Tamil Nadu
+1351,Brand111,Food Products,25-40,All,Madhya Pradesh
+1352,Brand135,Art Supplies,40-50,Female,Kerala
+1353,Brand130,Home Appliances,22-40,Female,Haryana
+1354,Brand132,Cosmetics,18-30,Female,Madhya Pradesh
+1355,Brand118,Smartphones,40-50,Female,Delhi
+1356,Brand133,Gaming Products,30-45,All,Madhya Pradesh
+1357,Brand123,Eco-friendly Goods,All,Female,Madhya Pradesh
+1358,Brand124,Gadgets,All,Male,Karnataka
+1359,Brand145,Smartphones,18-25,Female,Delhi
+1360,Brand110,Home Appliances,18-30,All,Kerala
+1361,Brand145,Books,All,Male,Rajasthan
+1362,Brand112,Travel Services,30-45,Female,Madhya Pradesh
+1363,Brand133,Art Supplies,18-30,All,Madhya Pradesh
+1364,Brand133,Smartphones,22-40,Male,Goa
+1365,Brand150,Smartphones,25-40,Female,Maharashtra
+1366,Brand130,Food Products,18-30,Female,Rajasthan
+1367,Brand129,Nutrition Products,All,Male,Kerala
+1368,Brand108,Gaming Products,22-40,All,Uttar Pradesh
+1369,Brand145,Fashion Accessories,18-30,Female,Delhi
+1370,Brand127,Gadgets,15-24,Female,Uttar Pradesh
+1371,Brand137,Books,18-30,Female,Madhya Pradesh
+1372,Brand117,Art Supplies,22-40,All,Maharashtra
+1373,Brand134,Food Products,15-24,Female,Haryana
+1374,Brand128,Nutrition Products,40-50,All,Delhi
+1375,Brand136,Art Supplies,18-25,Male,Gujarat
+1376,Brand124,Eco-friendly Goods,30-45,Male,Karnataka
+1377,Brand128,Cosmetics,15-24,Male,Rajasthan
+1378,Brand121,Gadgets,All,All,Delhi
+1379,Brand131,Nutrition Products,40-50,Female,Uttar Pradesh
+1380,Brand136,Pet Supplies,15-24,Male,Maharashtra
+1381,Brand114,Smartphones,All,Female,Goa
+1382,Brand120,Fashion Accessories,30-45,All,Madhya Pradesh
+1383,Brand127,Gaming Products,22-40,Male,Maharashtra
+1384,Brand135,Gaming Products,15-24,All,Delhi
+1385,Brand126,Nutrition Products,15-24,All,Rajasthan
+1386,Brand110,Smartphones,18-30,Female,Kerala
+1387,Brand115,Travel Services,40-50,All,Madhya Pradesh
+1388,Brand128,Travel Services,30-45,Male,Rajasthan
+1389,Brand105,Travel Services,All,Male,Karnataka
+1390,Brand118,Smartphones,22-40,Male,Kerala
+1391,Brand118,Nutrition Products,18-25,Female,Bihar
+1392,Brand115,Gadgets,22-40,All,Tamil Nadu
+1393,Brand113,Art Supplies,40-50,Female,Goa
+1394,Brand114,Cosmetics,18-30,All,Goa
+1395,Brand107,Travel Services,18-30,Female,Delhi
+1396,Brand124,Cosmetics,18-30,All,Maharashtra
+1397,Brand138,Smartphones,18-25,Male,Kerala
+1398,Brand147,Home Appliances,22-40,Female,Goa
+1399,Brand107,Home Appliances,15-24,Male,Bihar
+1400,Brand128,Art Supplies,15-24,All,Karnataka
+1401,Brand106,Gaming Products,18-30,Male,Gujarat
+1402,Brand105,Gadgets,18-30,Female,Tamil Nadu
+1403,Brand120,Pet Supplies,All,Female,Maharashtra
+1404,Brand138,Art Supplies,30-45,Male,Maharashtra
+1405,Brand115,Fashion Accessories,18-30,All,Gujarat
+1406,Brand107,Eco-friendly Goods,18-30,Male,Maharashtra
+1407,Brand126,Nutrition Products,All,Male,Gujarat
+1408,Brand125,Gadgets,18-28,Female,Maharashtra
+1409,Brand141,Gadgets,30-45,All,Kerala
+1410,Brand141,Gadgets,22-40,Female,Kerala
+1411,Brand139,Smartphones,18-30,All,Maharashtra
+1412,Brand140,Smartphones,15-24,All,Madhya Pradesh
+1413,Brand122,Home Appliances,18-30,Female,Kerala
+1414,Brand140,Smartphones,18-30,All,Uttar Pradesh
+1415,Brand122,Eco-friendly Goods,All,All,Kerala
+1416,Brand134,Gaming Products,18-30,Male,Madhya Pradesh
+1417,Brand127,Gadgets,18-30,All,Gujarat
+1418,Brand113,Travel Services,15-24,All,Kerala
+1419,Brand124,Gadgets,22-40,Male,Madhya Pradesh
+1420,Brand145,Smartphones,15-24,Male,Karnataka
+1421,Brand119,Food Products,22-40,Male,Madhya Pradesh
+1422,Brand109,Smartphones,25-40,All,Madhya Pradesh
+1423,Brand129,Travel Services,25-40,Female,Rajasthan
+1424,Brand144,Travel Services,18-28,All,Kerala
+1425,Brand107,Eco-friendly Goods,15-24,Female,Delhi
+1426,Brand116,Cosmetics,25-40,Male,Haryana
+1427,Brand148,Cosmetics,15-24,Male,Uttar Pradesh
+1428,Brand113,Fashion Accessories,15-24,Male,Karnataka
+1429,Brand128,Art Supplies,22-40,All,Delhi
+1430,Brand138,Books,18-30,Female,Kerala
+1431,Brand145,Travel Services,All,Female,Gujarat
+1432,Brand131,Travel Services,All,Female,Karnataka
+1433,Brand114,Cosmetics,18-30,Male,Maharashtra
+1434,Brand143,Smartphones,40-50,Male,Kerala
+1435,Brand102,Nutrition Products,All,Female,Kerala
+1436,Brand104,Gadgets,25-40,Male,Kerala
+1437,Brand136,Travel Services,25-40,Female,Rajasthan
+1438,Brand114,Home Appliances,All,Male,Madhya Pradesh
+1439,Brand123,Fashion Accessories,18-30,Male,Maharashtra
+1440,Brand137,Gadgets,18-30,Male,Delhi
+1441,Brand124,Nutrition Products,18-30,All,Maharashtra
+1442,Brand150,Gadgets,18-30,Male,Maharashtra
+1443,Brand142,Fashion Accessories,15-24,Female,Madhya Pradesh
+1444,Brand111,Smartphones,30-45,All,Kerala
+1445,Brand147,Nutrition Products,18-30,All,Kerala
+1446,Brand134,Smartphones,All,Male,Kerala
+1447,Brand146,Nutrition Products,18-30,Female,Delhi
+1448,Brand138,Art Supplies,25-40,Female,Uttar Pradesh
+1449,Brand131,Nutrition Products,18-28,All,Madhya Pradesh
+1450,Brand110,Gadgets,18-30,Female,Rajasthan
+1451,Brand134,Nutrition Products,18-25,Female,Tamil Nadu
+1452,Brand138,Gadgets,18-30,Female,Kerala
+1453,Brand102,Travel Services,18-28,Male,Rajasthan
+1454,Brand140,Art Supplies,22-40,Male,Maharashtra
+1455,Brand116,Food Products,All,Male,Gujarat
+1456,Brand102,Nutrition Products,18-28,Male,West Bengal
+1457,Brand148,Gaming Products,18-30,Male,Maharashtra
+1458,Brand125,Art Supplies,25-40,Female,Madhya Pradesh
+1459,Brand141,Food Products,18-30,Male,Bihar
+1460,Brand101,Gadgets,30-45,All,Tamil Nadu
+1461,Brand133,Smartphones,40-50,Female,Uttar Pradesh
+1462,Brand147,Gadgets,22-40,All,Kerala
+1463,Brand111,Nutrition Products,30-45,All,Delhi
+1464,Brand107,Nutrition Products,18-30,All,Maharashtra
+1465,Brand141,Gaming Products,40-50,All,Karnataka
+1466,Brand117,Smartphones,40-50,Female,Madhya Pradesh
+1467,Brand102,Smartphones,18-28,Male,Karnataka
+1468,Brand114,Nutrition Products,18-30,Male,Delhi
+1469,Brand132,Travel Services,30-45,Male,Goa
+1470,Brand103,Fashion Accessories,22-40,Female,Kerala
+1471,Brand150,Gaming Products,All,Female,Uttar Pradesh
+1472,Brand107,Smartphones,15-24,All,Gujarat
+1473,Brand122,Smartphones,40-50,Female,Maharashtra
+1474,Brand148,Art Supplies,25-40,Female,Karnataka
+1475,Brand113,Nutrition Products,All,All,Punjab
+1476,Brand125,Travel Services,All,All,Tamil Nadu
+1477,Brand105,Cosmetics,18-30,All,Delhi
+1478,Brand105,Travel Services,All,All,Uttar Pradesh
+1479,Brand102,Art Supplies,22-40,Female,Delhi
+1480,Brand119,Gaming Products,All,Female,Punjab
+1481,Brand122,Cosmetics,25-40,Female,Gujarat
+1482,Brand120,Travel Services,18-28,All,Karnataka
+1483,Brand146,Cosmetics,18-30,All,Kerala
+1484,Brand131,Gadgets,All,Male,West Bengal
+1485,Brand129,Travel Services,All,Male,Karnataka
+1486,Brand130,Nutrition Products,18-30,Female,Delhi
+1487,Brand114,Gaming Products,40-50,All,Bihar
+1488,Brand148,Travel Services,18-25,Female,Kerala
+1489,Brand107,Cosmetics,30-45,Male,Madhya Pradesh
+1490,Brand103,Smartphones,18-30,Female,Rajasthan
+1491,Brand101,Travel Services,22-40,Male,Madhya Pradesh
+1492,Brand115,Travel Services,18-30,Male,Karnataka
+1493,Brand120,Eco-friendly Goods,18-25,Male,Kerala
+1494,Brand118,Gaming Products,40-50,Male,Madhya Pradesh
+1495,Brand129,Home Appliances,All,Male,Rajasthan
+1496,Brand134,Art Supplies,18-30,Male,Kerala
+1497,Brand109,Fashion Accessories,30-45,Male,Madhya Pradesh
+1498,Brand127,Food Products,All,Female,Kerala
+1499,Brand128,Pet Supplies,30-45,All,Maharashtra
+1500,Brand136,Smartphones,18-30,Female,Madhya Pradesh
+1501,Brand107,Gadgets,18-30,All,Tamil Nadu
+1502,Brand144,Travel Services,18-30,Male,Madhya Pradesh
+1503,Brand112,Travel Services,15-24,Female,Bihar
+1504,Brand138,Art Supplies,All,All,Kerala
+1505,Brand133,Gadgets,15-24,Female,Kerala
+1506,Brand120,Smartphones,15-24,Female,Karnataka
+1507,Brand106,Fashion Accessories,18-30,Female,Uttar Pradesh
+1508,Brand119,Gaming Products,18-30,Male,Punjab
+1509,Brand105,Fashion Accessories,18-28,All,Karnataka
+1510,Brand105,Smartphones,18-30,All,Uttar Pradesh
+1511,Brand130,Nutrition Products,15-24,Male,Delhi
+1512,Brand120,Travel Services,15-24,Male,Tamil Nadu
+1513,Brand107,Gaming Products,25-40,Female,Maharashtra
+1514,Brand101,Gadgets,15-24,Male,Maharashtra
+1515,Brand125,Nutrition Products,18-30,Female,Kerala
+1516,Brand149,Gaming Products,18-25,All,Delhi
+1517,Brand114,Cosmetics,40-50,Female,Uttar Pradesh
+1518,Brand107,Cosmetics,18-28,Female,Gujarat
+1519,Brand101,Food Products,25-40,All,Delhi
+1520,Brand146,Nutrition Products,40-50,All,Madhya Pradesh
+1521,Brand147,Smartphones,18-30,All,Delhi
+1522,Brand148,Home Appliances,25-40,Female,Goa
+1523,Brand114,Travel Services,All,All,Tamil Nadu
+1524,Brand101,Fashion Accessories,22-40,All,Tamil Nadu
+1525,Brand128,Travel Services,All,All,Uttar Pradesh
+1526,Brand123,Gaming Products,15-24,Female,Kerala
+1527,Brand134,Art Supplies,All,Male,Uttar Pradesh
+1528,Brand145,Gadgets,15-24,All,Kerala
+1529,Brand116,Books,15-24,All,Maharashtra
+1530,Brand124,Gaming Products,15-24,Female,Kerala
+1531,Brand136,Nutrition Products,18-25,All,Kerala
+1532,Brand128,Art Supplies,18-30,All,Delhi
+1533,Brand125,Gadgets,22-40,Female,Kerala
+1534,Brand146,Smartphones,18-28,Female,Madhya Pradesh
+1535,Brand147,Nutrition Products,18-30,All,Rajasthan
+1536,Brand104,Fashion Accessories,18-30,All,Tamil Nadu
+1537,Brand149,Nutrition Products,All,All,Karnataka
+1538,Brand140,Cosmetics,15-24,Male,Delhi
+1539,Brand124,Nutrition Products,18-28,Male,Uttar Pradesh
+1540,Brand127,Smartphones,18-25,Male,Tamil Nadu
+1541,Brand137,Smartphones,15-24,Male,Karnataka
+1542,Brand126,Eco-friendly Goods,15-24,Male,Delhi
+1543,Brand129,Nutrition Products,All,Female,Madhya Pradesh
+1544,Brand111,Smartphones,15-24,All,Delhi
+1545,Brand115,Travel Services,30-45,All,Kerala
+1546,Brand103,Smartphones,All,Female,Karnataka
+1547,Brand120,Cosmetics,15-24,All,Madhya Pradesh
+1548,Brand106,Fashion Accessories,18-30,Female,Karnataka
+1549,Brand123,Nutrition Products,All,Male,Maharashtra
+1550,Brand131,Smartphones,All,Male,Uttar Pradesh
+1551,Brand128,Gadgets,18-28,Female,Maharashtra
+1552,Brand123,Art Supplies,18-30,All,Kerala
+1553,Brand111,Fashion Accessories,All,Male,Uttar Pradesh
+1554,Brand128,Smartphones,18-28,Male,Karnataka
+1555,Brand118,Fashion Accessories,All,Female,Madhya Pradesh
+1556,Brand125,Eco-friendly Goods,15-24,Male,Madhya Pradesh
+1557,Brand126,Eco-friendly Goods,18-28,All,Bihar
+1558,Brand117,Smartphones,18-30,Female,Madhya Pradesh
+1559,Brand143,Art Supplies,All,Female,Gujarat
+1560,Brand134,Smartphones,All,All,Madhya Pradesh
+1561,Brand141,Gaming Products,18-30,Male,Delhi
+1562,Brand129,Nutrition Products,All,Male,Madhya Pradesh
+1563,Brand131,Smartphones,40-50,All,Delhi
+1564,Brand133,Pet Supplies,18-28,Female,Haryana
+1565,Brand104,Smartphones,25-40,Female,Delhi
+1566,Brand132,Fashion Accessories,40-50,Female,Karnataka
+1567,Brand111,Home Appliances,40-50,Female,Karnataka
+1568,Brand133,Smartphones,40-50,Female,Rajasthan
+1569,Brand123,Art Supplies,18-25,Male,Kerala
+1570,Brand119,Travel Services,18-30,Female,Rajasthan
+1571,Brand148,Nutrition Products,30-45,Female,Goa
+1572,Brand122,Travel Services,22-40,Male,Gujarat
+1573,Brand140,Smartphones,25-40,All,West Bengal
+1574,Brand104,Travel Services,25-40,Female,Kerala
+1575,Brand137,Nutrition Products,30-45,Female,Karnataka
+1576,Brand116,Gadgets,15-24,Female,Uttar Pradesh
+1577,Brand143,Gadgets,All,All,Uttar Pradesh
+1578,Brand142,Travel Services,18-30,Male,Tamil Nadu
+1579,Brand131,Travel Services,18-30,Male,Kerala
+1580,Brand150,Art Supplies,15-24,Male,Uttar Pradesh
+1581,Brand101,Gaming Products,25-40,Female,Kerala
+1582,Brand112,Fashion Accessories,18-30,Male,Karnataka
+1583,Brand122,Gadgets,15-24,Male,Karnataka
+1584,Brand135,Cosmetics,18-30,Female,Maharashtra
+1585,Brand123,Art Supplies,All,Female,Tamil Nadu
+1586,Brand135,Art Supplies,22-40,Male,Maharashtra
+1587,Brand131,Cosmetics,18-28,Male,Karnataka
+1588,Brand119,Gadgets,18-25,Male,Delhi
+1589,Brand122,Gaming Products,18-30,All,Karnataka
+1590,Brand101,Nutrition Products,15-24,All,Punjab
+1591,Brand124,Gadgets,18-28,Female,Karnataka
+1592,Brand104,Smartphones,30-45,Female,Tamil Nadu
+1593,Brand115,Travel Services,30-45,Male,Kerala
+1594,Brand108,Home Appliances,15-24,All,Madhya Pradesh
+1595,Brand106,Smartphones,15-24,Male,Karnataka
+1596,Brand146,Fashion Accessories,18-30,All,Uttar Pradesh
+1597,Brand107,Gaming Products,22-40,Female,Karnataka
+1598,Brand149,Eco-friendly Goods,All,Male,Maharashtra
+1599,Brand125,Smartphones,18-30,All,Madhya Pradesh
+1600,Brand119,Fashion Accessories,15-24,All,Delhi
